@@ -1,0 +1,2001 @@
+MovieID,Title,Genre,ReleaseDate,Rating,Votes,Revenue (Million USD)
+1,Movie 1,"Drama, Action, Thriller",1997-04-08,6.5,529895,2046.3
+2,Movie 2,"Drama, Adventure, Action",1981-02-07,6.8,211299,1705.7
+3,Movie 3,"Family, Adventure, Drama",2008-10-09,8.8,127257,2288.5
+4,Movie 4,Adventure,2001-05-05,6.8,1511779,351.5
+5,Movie 5,"Drama, Thriller",2002-10-09,8.8,2026967,1631.9
+6,Movie 6,"Drama, Sci-Fi",2020-10-28,7.3,906516,2128.5
+7,Movie 7,Romance,1998-02-28,6.8,523630,1171.4
+8,Movie 8,"Thriller, Comedy",2003-06-07,8.3,399483,1846.9
+9,Movie 9,Family,1995-03-15,7.3,2436016,697.9
+10,Movie 10,"Action, Romance",1982-06-13,6.9,984926,2743.8
+11,Movie 11,"Thriller, Romance, Family",2011-07-21,7.6,1210987,461.9
+12,Movie 12,"Family, Sci-Fi, Thriller",2017-07-19,7.4,1019897,2992.1
+13,Movie 13,Family,2011-02-25,6.2,559901,500.9
+14,Movie 14,Adventure,2018-02-13,7.3,2063143,1610.9
+15,Movie 15,"Action, Drama, Thriller",2014-05-25,8.2,567883,915.8
+16,Movie 16,Animation,1980-12-24,6.9,2199610,2297.8
+17,Movie 17,"Drama, Sci-Fi, Adventure",2020-09-20,6.7,1668308,2299.4
+18,Movie 18,"Family, Action, Sci-Fi",2000-08-01,6.4,1622451,2642.2
+19,Movie 19,"Romance, Action",1995-10-03,6.3,2138391,2457.3
+20,Movie 20,"Comedy, Family, Thriller",2010-09-06,6.9,1874769,2894.9
+21,Movie 21,"Romance, Sci-Fi, Family",2022-11-12,7.5,2270870,1381.9
+22,Movie 22,Romance,1984-06-01,8.1,1065171,1785.9
+23,Movie 23,Drama,2020-01-08,6.2,231755,2585.9
+24,Movie 24,Family,1995-05-22,7.7,2361711,440.3
+25,Movie 25,"Animation, Romance, Adventure",2010-07-07,6.3,1907959,1095.2
+26,Movie 26,"Animation, Action",2023-11-21,6.3,1788716,2198.2
+27,Movie 27,Romance,1992-04-18,7.6,1869499,591.3
+28,Movie 28,"Romance, Drama",2008-09-04,6.2,2367390,2516.3
+29,Movie 29,Romance,1990-07-16,7.7,1782084,2712.2
+30,Movie 30,Adventure,1980-07-09,9.2,2008443,891.5
+31,Movie 31,"Family, Animation, Drama",1992-05-07,9.4,2374131,229.8
+32,Movie 32,"Action, Family",2017-08-17,9.2,2327704,514.4
+33,Movie 33,"Drama, Comedy, Action",2018-02-22,9.0,1793557,403.7
+34,Movie 34,"Romance, Action, Sci-Fi",1985-07-22,8.0,2292709,983.3
+35,Movie 35,"Romance, Thriller",1995-05-13,6.5,1358278,1398.8
+36,Movie 36,Action,2009-10-19,9.5,407277,1636.0
+37,Movie 37,"Sci-Fi, Comedy, Animation",1984-04-12,7.0,1937879,2509.5
+38,Movie 38,"Sci-Fi, Action, Thriller",2015-05-22,6.4,663257,830.2
+39,Movie 39,Family,1989-05-10,8.1,1538144,650.6
+40,Movie 40,"Sci-Fi, Animation, Comedy",1983-02-21,7.5,1260480,180.1
+41,Movie 41,"Comedy, Sci-Fi",1990-12-15,7.9,1893848,1704.7
+42,Movie 42,Drama,1989-09-02,8.9,2417458,486.9
+43,Movie 43,Action,1999-06-26,9.4,267331,2701.8
+44,Movie 44,Romance,2022-02-12,8.7,1804470,2922.8
+45,Movie 45,"Comedy, Romance, Adventure",1990-03-14,6.1,1493286,2358.0
+46,Movie 46,"Romance, Sci-Fi",1990-12-04,7.3,262422,2582.9
+47,Movie 47,Romance,2009-06-10,8.9,1054604,707.6
+48,Movie 48,"Romance, Adventure, Comedy",1997-02-25,7.0,2236602,1229.1
+49,Movie 49,"Thriller, Action, Animation",1996-03-19,9.4,1213446,162.9
+50,Movie 50,"Adventure, Thriller, Animation",2000-07-20,9.4,585053,1186.3
+51,Movie 51,"Romance, Sci-Fi, Action",2007-01-17,9.2,2358431,2076.2
+52,Movie 52,"Romance, Thriller, Family",1984-11-11,8.2,622716,2173.3
+53,Movie 53,"Family, Sci-Fi",2022-07-11,7.4,1340067,1685.5
+54,Movie 54,Adventure,2022-07-22,8.6,829923,1865.8
+55,Movie 55,"Adventure, Action",1999-05-07,7.5,1451611,1421.7
+56,Movie 56,"Romance, Animation",1990-11-03,7.0,1505881,325.5
+57,Movie 57,Sci-Fi,1994-04-05,6.1,1126944,2952.6
+58,Movie 58,"Drama, Animation, Romance",2020-10-07,8.5,1710522,1508.4
+59,Movie 59,Comedy,2021-12-01,9.1,547059,2346.3
+60,Movie 60,Comedy,2013-08-02,8.0,609014,1396.6
+61,Movie 61,"Family, Thriller",2008-10-27,8.5,2217193,1308.9
+62,Movie 62,"Animation, Comedy, Thriller",2010-08-09,8.6,1263128,2309.2
+63,Movie 63,"Animation, Romance, Comedy",2008-02-23,7.0,1239655,1040.8
+64,Movie 64,"Drama, Comedy, Family",1994-07-23,6.5,997383,239.5
+65,Movie 65,"Thriller, Animation",2006-01-07,8.9,1733584,2719.3
+66,Movie 66,"Action, Adventure, Romance",1980-06-10,8.6,1857502,1637.8
+67,Movie 67,"Family, Romance, Animation",1994-05-14,7.7,1730985,1041.6
+68,Movie 68,"Adventure, Comedy, Family",2009-03-20,7.9,1752640,1796.1
+69,Movie 69,"Action, Drama, Thriller",2007-03-28,7.6,310909,817.5
+70,Movie 70,"Romance, Animation",2000-06-25,9.1,1267092,2268.4
+71,Movie 71,"Sci-Fi, Drama",2010-01-24,7.9,1567840,711.5
+72,Movie 72,Action,1981-04-07,8.9,739137,753.7
+73,Movie 73,"Drama, Romance",2009-12-09,8.7,803758,1837.4
+74,Movie 74,"Drama, Comedy, Animation",1986-10-01,9.3,1674151,1220.1
+75,Movie 75,"Romance, Drama, Sci-Fi",2020-04-04,8.4,1364929,2558.4
+76,Movie 76,"Drama, Action, Comedy",2014-07-22,7.3,2222153,1960.3
+77,Movie 77,Adventure,2011-02-14,9.4,2028286,2136.6
+78,Movie 78,"Comedy, Sci-Fi",2019-09-25,7.7,1926931,2485.9
+79,Movie 79,"Sci-Fi, Thriller, Adventure",1995-02-09,9.1,1122837,2263.9
+80,Movie 80,"Adventure, Thriller, Action",2011-06-06,7.7,1588243,2403.6
+81,Movie 81,"Sci-Fi, Family",2015-01-17,9.3,459086,762.0
+82,Movie 82,"Animation, Romance",2010-11-23,7.7,172323,324.5
+83,Movie 83,Adventure,1995-05-22,8.0,2084998,1682.7
+84,Movie 84,"Adventure, Thriller",2002-12-15,6.9,1154463,730.1
+85,Movie 85,"Romance, Thriller, Action",2014-12-06,6.7,2130876,865.7
+86,Movie 86,"Family, Sci-Fi, Action",1992-05-08,7.3,1367802,91.7
+87,Movie 87,"Comedy, Sci-Fi, Action",1983-09-10,8.4,629654,1931.7
+88,Movie 88,"Drama, Action",2016-05-16,7.7,1529024,593.9
+89,Movie 89,Sci-Fi,2010-02-27,6.2,2162534,268.5
+90,Movie 90,"Action, Comedy, Drama",2016-05-03,9.5,596821,1696.3
+91,Movie 91,"Romance, Adventure",2008-08-10,9.0,1898642,950.9
+92,Movie 92,"Action, Drama, Adventure",1993-11-07,6.9,440524,513.3
+93,Movie 93,Family,1984-03-01,7.4,2070955,909.2
+94,Movie 94,Sci-Fi,1998-12-28,7.6,1079050,2775.5
+95,Movie 95,"Romance, Adventure, Action",2014-04-21,6.5,1214143,2488.6
+96,Movie 96,Action,1990-05-20,8.6,2487427,2767.5
+97,Movie 97,"Drama, Animation",1999-12-13,9.3,2199132,1642.9
+98,Movie 98,"Drama, Action",2007-12-11,8.1,208485,319.4
+99,Movie 99,"Action, Sci-Fi, Animation",1982-03-16,7.8,1954844,2752.4
+100,Movie 100,Adventure,2020-08-03,7.6,1812736,1033.3
+101,Movie 101,"Drama, Comedy, Animation",2006-12-16,7.0,1779618,2450.0
+102,Movie 102,"Action, Animation, Family",2000-05-11,6.4,1795233,2601.5
+103,Movie 103,Family,2009-07-02,6.7,1617412,1886.8
+104,Movie 104,"Animation, Action",1993-05-18,6.5,1308081,1342.4
+105,Movie 105,"Animation, Drama, Action",2020-10-26,6.8,764286,966.7
+106,Movie 106,Family,2006-02-08,9.5,575890,1411.3
+107,Movie 107,Comedy,2011-12-10,7.8,1246827,1275.7
+108,Movie 108,"Animation, Romance",2009-09-05,7.3,2231716,2251.6
+109,Movie 109,Drama,1997-07-11,9.3,2229606,838.2
+110,Movie 110,Sci-Fi,1999-10-19,9.5,2153700,2602.5
+111,Movie 111,"Family, Animation",2002-06-18,8.7,1682133,1393.3
+112,Movie 112,"Romance, Family",2016-07-08,9.0,1822915,178.8
+113,Movie 113,"Animation, Adventure, Romance",2022-11-05,7.7,255271,422.4
+114,Movie 114,"Thriller, Drama, Adventure",2008-02-17,9.2,164372,2181.2
+115,Movie 115,"Comedy, Drama",2010-05-11,8.2,1767165,1967.0
+116,Movie 116,"Family, Adventure",2000-11-23,9.1,2146600,2623.5
+117,Movie 117,Drama,1995-11-22,9.2,1054146,2253.0
+118,Movie 118,"Drama, Family",2008-03-23,7.0,221413,185.7
+119,Movie 119,Sci-Fi,2002-06-14,6.5,2327873,1265.6
+120,Movie 120,"Comedy, Family, Drama",1985-10-28,7.3,1110113,1518.1
+121,Movie 121,"Comedy, Romance, Animation",2020-05-15,6.9,139415,2701.8
+122,Movie 122,"Sci-Fi, Comedy",1984-08-12,9.5,1354743,1934.9
+123,Movie 123,"Sci-Fi, Animation",1999-04-13,9.0,547336,749.8
+124,Movie 124,"Thriller, Sci-Fi, Family",1998-01-27,8.3,1251254,73.9
+125,Movie 125,"Action, Animation, Adventure",1998-04-20,8.8,1018571,1928.0
+126,Movie 126,"Sci-Fi, Comedy, Thriller",1986-11-21,6.1,1948946,148.4
+127,Movie 127,"Comedy, Drama",1998-06-24,7.5,942194,439.9
+128,Movie 128,"Thriller, Sci-Fi, Adventure",1990-05-27,9.3,1337912,2252.4
+129,Movie 129,"Drama, Animation",1984-03-25,9.4,1766864,2903.4
+130,Movie 130,"Thriller, Drama, Adventure",2005-01-09,7.9,2007510,1137.3
+131,Movie 131,"Sci-Fi, Adventure, Animation",2020-06-04,8.4,2077517,123.8
+132,Movie 132,"Thriller, Romance, Family",1984-11-27,7.6,1367477,1965.3
+133,Movie 133,Comedy,1982-01-10,9.5,587044,336.7
+134,Movie 134,"Comedy, Adventure, Romance",2003-11-24,8.4,2365731,1286.4
+135,Movie 135,"Comedy, Adventure, Thriller",1986-08-20,7.4,1273315,146.5
+136,Movie 136,"Romance, Animation",2008-04-28,7.3,1640714,1656.2
+137,Movie 137,"Thriller, Action, Romance",1997-04-04,9.3,2007222,320.4
+138,Movie 138,Action,1983-06-08,9.5,2468011,655.4
+139,Movie 139,"Romance, Family, Adventure",1994-06-25,6.5,111893,868.0
+140,Movie 140,Comedy,2014-05-26,6.6,208129,438.8
+141,Movie 141,"Romance, Thriller",1981-03-09,6.2,1865636,1602.0
+142,Movie 142,"Drama, Animation, Romance",2003-09-19,6.4,2213252,703.6
+143,Movie 143,"Action, Sci-Fi, Romance",2021-01-02,9.5,1784504,1307.5
+144,Movie 144,Animation,2008-02-03,7.1,722157,243.8
+145,Movie 145,"Family, Thriller",2004-10-17,7.0,2220434,1836.0
+146,Movie 146,Drama,2021-11-25,7.9,1001872,1318.7
+147,Movie 147,Adventure,2001-08-13,7.5,498818,972.0
+148,Movie 148,"Sci-Fi, Thriller",1989-11-16,6.2,458044,325.0
+149,Movie 149,Thriller,1988-09-02,8.1,2455464,1707.0
+150,Movie 150,"Drama, Adventure, Comedy",2022-07-28,9.2,315780,2906.8
+151,Movie 151,"Sci-Fi, Thriller, Action",2016-09-07,6.5,2122448,711.5
+152,Movie 152,Thriller,2015-06-04,8.7,1048579,2431.3
+153,Movie 153,"Family, Action, Sci-Fi",2022-12-09,6.1,1246179,2123.0
+154,Movie 154,"Thriller, Family",1980-03-28,6.5,1781011,255.3
+155,Movie 155,"Action, Drama, Thriller",2013-04-13,7.5,1529821,514.4
+156,Movie 156,"Thriller, Drama",1983-03-06,8.6,308719,2038.2
+157,Movie 157,"Animation, Adventure",2011-10-15,7.4,1004161,2277.1
+158,Movie 158,Thriller,2007-02-10,8.4,2141085,1604.5
+159,Movie 159,"Action, Romance",2005-10-02,6.0,1364244,2838.7
+160,Movie 160,Sci-Fi,1998-06-04,6.0,1906298,568.3
+161,Movie 161,"Family, Romance",2012-09-27,8.3,1585484,262.6
+162,Movie 162,"Action, Adventure, Family",2009-02-28,7.1,1900548,1741.5
+163,Movie 163,"Adventure, Sci-Fi, Action",2005-01-11,6.6,2029786,2504.5
+164,Movie 164,"Drama, Adventure",1986-04-14,8.1,2297658,282.0
+165,Movie 165,"Thriller, Romance",2001-03-03,7.8,578262,1615.3
+166,Movie 166,Thriller,2002-12-27,8.3,719456,747.0
+167,Movie 167,Sci-Fi,1992-03-20,6.5,416054,572.6
+168,Movie 168,"Animation, Family, Adventure",2016-10-15,8.4,2467650,1946.8
+169,Movie 169,"Thriller, Family, Drama",2008-02-16,7.5,1370120,2399.2
+170,Movie 170,"Action, Thriller, Sci-Fi",1984-05-15,7.6,338614,1137.8
+171,Movie 171,"Drama, Family",2019-10-17,7.3,2424971,2865.0
+172,Movie 172,"Action, Animation, Adventure",2016-11-07,7.1,2094932,1529.0
+173,Movie 173,Animation,1986-06-23,6.3,823764,165.5
+174,Movie 174,"Animation, Family, Sci-Fi",2013-10-06,7.3,1286541,1192.9
+175,Movie 175,"Action, Thriller",1984-06-04,8.0,1721367,888.2
+176,Movie 176,"Comedy, Thriller, Action",2017-11-05,9.2,1401206,2904.7
+177,Movie 177,"Adventure, Comedy, Sci-Fi",1985-05-18,7.3,1477730,2448.9
+178,Movie 178,"Family, Drama, Thriller",2022-07-17,7.3,1620844,961.2
+179,Movie 179,Thriller,2011-04-08,9.5,749887,277.6
+180,Movie 180,Family,2014-12-17,6.1,1512492,2635.4
+181,Movie 181,"Comedy, Adventure, Drama",1990-03-27,8.4,794321,2177.5
+182,Movie 182,Adventure,2003-11-24,6.8,1963104,1851.3
+183,Movie 183,"Animation, Romance, Sci-Fi",1995-05-26,8.7,913762,1135.1
+184,Movie 184,"Animation, Family, Adventure",1998-07-17,7.8,779721,2459.8
+185,Movie 185,"Comedy, Sci-Fi, Action",2021-08-28,7.3,530292,2148.6
+186,Movie 186,"Drama, Sci-Fi, Action",1990-05-15,9.2,718025,2501.6
+187,Movie 187,Romance,2008-06-01,7.5,1762848,1530.9
+188,Movie 188,Adventure,1985-06-08,6.1,515584,2525.6
+189,Movie 189,"Thriller, Comedy, Drama",1982-05-27,7.7,682138,2288.6
+190,Movie 190,"Animation, Action",1985-01-09,6.8,727130,1669.0
+191,Movie 191,"Family, Adventure, Action",1998-04-10,6.4,1100087,1288.5
+192,Movie 192,"Animation, Drama, Action",2011-10-18,6.1,2261642,1746.4
+193,Movie 193,"Comedy, Sci-Fi, Romance",1980-10-12,6.8,1847211,602.6
+194,Movie 194,"Drama, Thriller, Action",2013-09-17,8.8,2229123,1684.7
+195,Movie 195,"Animation, Action",2020-07-12,6.9,168124,1103.4
+196,Movie 196,Thriller,1995-12-22,8.2,1494684,443.6
+197,Movie 197,"Family, Thriller",2021-03-27,8.7,2048769,2943.4
+198,Movie 198,"Comedy, Family",1984-12-25,9.3,255121,915.7
+199,Movie 199,Romance,1982-06-10,7.8,2377635,1446.5
+200,Movie 200,Romance,1998-06-28,8.7,1492193,856.0
+201,Movie 201,"Adventure, Family",2008-07-11,9.4,2181227,2091.6
+202,Movie 202,"Family, Sci-Fi",1985-12-14,6.3,856889,1659.1
+203,Movie 203,"Drama, Family",2000-11-10,7.1,1887260,541.6
+204,Movie 204,"Thriller, Animation",1982-12-28,9.2,1924272,859.9
+205,Movie 205,Drama,2022-11-13,7.3,771032,2860.7
+206,Movie 206,Animation,1982-03-03,6.8,1636492,1118.3
+207,Movie 207,"Action, Comedy, Thriller",2008-06-12,7.6,422480,1743.1
+208,Movie 208,"Thriller, Adventure, Comedy",2021-05-08,9.4,208688,2220.2
+209,Movie 209,"Family, Adventure",2015-02-09,8.7,1971805,683.0
+210,Movie 210,"Sci-Fi, Animation, Drama",1987-03-28,6.3,824173,2701.1
+211,Movie 211,"Drama, Thriller",2022-06-23,6.2,2374031,906.6
+212,Movie 212,"Comedy, Family",2003-09-08,6.4,942972,2386.6
+213,Movie 213,Animation,1981-06-18,8.0,2060442,2420.8
+214,Movie 214,"Comedy, Drama, Action",1999-07-23,8.5,2304927,1261.8
+215,Movie 215,"Drama, Comedy",2000-11-03,7.6,2269965,1066.3
+216,Movie 216,"Comedy, Family, Romance",2012-01-27,6.4,741793,947.2
+217,Movie 217,Thriller,1994-06-17,9.1,430762,789.3
+218,Movie 218,"Family, Sci-Fi, Drama",2020-05-20,7.9,2207944,1940.9
+219,Movie 219,"Comedy, Family, Thriller",2019-12-20,7.2,2463985,171.5
+220,Movie 220,Drama,1982-11-25,8.0,984194,2312.5
+221,Movie 221,"Action, Animation",2020-09-10,8.2,1367074,1474.7
+222,Movie 222,"Adventure, Sci-Fi, Romance",1984-12-02,6.6,1843243,1478.5
+223,Movie 223,Thriller,2018-03-11,9.0,1439310,2215.9
+224,Movie 224,"Adventure, Comedy",2003-09-18,6.4,1113922,1426.1
+225,Movie 225,"Animation, Romance",1989-02-02,7.0,1711241,2599.3
+226,Movie 226,"Romance, Comedy",2000-10-24,7.1,768330,1519.9
+227,Movie 227,"Animation, Family, Comedy",2011-01-03,9.3,2219987,1398.8
+228,Movie 228,Romance,2017-06-02,6.2,2175736,1812.7
+229,Movie 229,"Animation, Sci-Fi, Family",1980-02-14,6.5,1209279,2196.1
+230,Movie 230,"Thriller, Action",2005-01-19,8.0,1620534,1682.0
+231,Movie 231,Adventure,2012-08-25,7.9,598329,429.6
+232,Movie 232,Adventure,2003-06-18,9.3,705101,637.2
+233,Movie 233,"Adventure, Action, Animation",1982-03-23,7.2,2087026,1582.0
+234,Movie 234,Family,1988-06-20,7.1,1748170,2972.3
+235,Movie 235,"Sci-Fi, Thriller, Family",2012-09-16,8.5,1357412,1450.9
+236,Movie 236,Thriller,2001-11-04,9.4,1390494,2400.4
+237,Movie 237,"Action, Animation, Comedy",2021-10-19,6.8,315399,1771.4
+238,Movie 238,Family,2020-12-20,8.7,1694633,485.9
+239,Movie 239,"Romance, Action, Sci-Fi",1987-04-01,7.5,1856491,496.7
+240,Movie 240,"Romance, Adventure, Sci-Fi",2019-08-28,9.0,361226,2132.0
+241,Movie 241,"Romance, Thriller, Animation",2010-09-13,7.1,826379,1406.0
+242,Movie 242,"Thriller, Family, Animation",2023-11-26,8.4,2130798,617.2
+243,Movie 243,Sci-Fi,2015-05-08,9.3,1348285,2325.0
+244,Movie 244,"Romance, Animation, Comedy",2010-06-18,9.3,1246964,899.0
+245,Movie 245,"Family, Adventure, Romance",2002-03-10,6.1,431473,1071.8
+246,Movie 246,"Sci-Fi, Animation",1993-04-27,7.9,2457274,2103.7
+247,Movie 247,Drama,2019-12-19,6.8,312925,2026.0
+248,Movie 248,"Romance, Family, Action",1986-07-11,8.5,521715,2059.5
+249,Movie 249,Action,2015-03-14,8.3,2095228,1458.5
+250,Movie 250,Sci-Fi,2000-05-21,6.2,475225,1974.3
+251,Movie 251,Family,1982-03-14,9.1,837311,2805.1
+252,Movie 252,Adventure,2011-03-24,9.4,1314112,2636.4
+253,Movie 253,Sci-Fi,2016-10-04,9.2,1505268,889.5
+254,Movie 254,"Family, Animation, Drama",2012-08-09,6.7,572474,1025.5
+255,Movie 255,"Animation, Sci-Fi, Thriller",1991-01-24,7.2,1337421,1725.0
+256,Movie 256,Comedy,2019-11-13,8.9,2261243,1017.4
+257,Movie 257,"Drama, Comedy",1988-08-11,9.3,128647,819.3
+258,Movie 258,Animation,1997-06-10,8.0,147964,821.6
+259,Movie 259,"Romance, Action",2022-02-15,7.1,1800440,2073.9
+260,Movie 260,"Sci-Fi, Drama, Thriller",1998-06-20,6.8,660228,1460.6
+261,Movie 261,"Thriller, Adventure",2015-08-25,7.9,1016084,2297.5
+262,Movie 262,"Drama, Animation, Sci-Fi",2003-02-19,6.4,2397007,2713.5
+263,Movie 263,Family,1989-03-11,9.0,1953213,392.9
+264,Movie 264,Animation,1985-09-15,8.8,2001832,439.2
+265,Movie 265,"Animation, Action",2015-08-22,8.8,191311,1218.0
+266,Movie 266,Romance,2017-02-02,7.5,367428,1646.4
+267,Movie 267,Drama,2010-01-10,7.4,668029,2309.2
+268,Movie 268,"Adventure, Thriller, Romance",2008-07-13,6.3,2361989,442.3
+269,Movie 269,"Drama, Comedy",2014-07-17,6.4,1034030,2512.7
+270,Movie 270,Sci-Fi,2009-11-24,7.9,2331091,1168.9
+271,Movie 271,Romance,2009-06-05,7.0,573304,145.0
+272,Movie 272,"Adventure, Action, Drama",1993-02-04,8.1,1972509,1813.5
+273,Movie 273,"Action, Romance, Thriller",1982-07-15,6.8,1011293,2275.4
+274,Movie 274,Comedy,2012-05-08,8.9,1437579,1753.6
+275,Movie 275,"Thriller, Romance, Comedy",1989-11-17,6.8,1360392,861.7
+276,Movie 276,"Comedy, Adventure, Sci-Fi",2011-01-12,9.3,1698678,2368.1
+277,Movie 277,"Adventure, Family",1989-05-13,6.6,2356234,1446.9
+278,Movie 278,Sci-Fi,1989-08-02,8.0,1846960,1694.0
+279,Movie 279,Adventure,1995-05-07,7.2,431645,2770.6
+280,Movie 280,"Drama, Romance",1983-05-13,8.4,265874,2627.2
+281,Movie 281,Family,1993-08-07,9.0,1496553,944.4
+282,Movie 282,Romance,1992-12-04,8.6,2108739,2747.6
+283,Movie 283,"Romance, Adventure, Drama",2015-06-25,7.0,2055596,1624.3
+284,Movie 284,"Sci-Fi, Family",2003-09-16,7.6,2069185,2296.8
+285,Movie 285,"Romance, Thriller",2000-07-02,8.0,1028090,2236.7
+286,Movie 286,Sci-Fi,2015-10-19,8.5,1338126,499.6
+287,Movie 287,"Romance, Adventure",2016-04-16,7.9,1515847,809.1
+288,Movie 288,"Animation, Family",1990-12-26,7.2,687028,2174.9
+289,Movie 289,"Comedy, Action",2013-01-27,9.0,303484,2304.8
+290,Movie 290,"Comedy, Romance",1984-12-05,6.0,2221197,1395.2
+291,Movie 291,Animation,2022-08-01,6.0,2413760,1263.4
+292,Movie 292,Family,1997-09-10,6.1,1905954,2428.2
+293,Movie 293,Drama,1986-09-05,6.8,2308116,794.6
+294,Movie 294,"Sci-Fi, Adventure",1985-06-13,7.6,1120087,2971.2
+295,Movie 295,Sci-Fi,2023-02-21,9.5,232894,325.8
+296,Movie 296,"Adventure, Animation",1983-11-01,8.5,446810,1524.6
+297,Movie 297,"Thriller, Drama",2013-01-08,6.7,2477265,1452.7
+298,Movie 298,Drama,2023-05-18,8.0,238000,579.1
+299,Movie 299,"Action, Romance",2017-03-25,8.9,1770574,2790.2
+300,Movie 300,"Comedy, Romance",2016-07-22,9.1,1491375,1182.3
+301,Movie 301,"Comedy, Drama, Sci-Fi",2002-01-04,7.5,418843,1054.7
+302,Movie 302,"Adventure, Thriller, Action",2020-05-26,9.5,2157740,723.0
+303,Movie 303,"Adventure, Family, Drama",2023-10-22,7.3,1338911,2404.3
+304,Movie 304,"Drama, Family, Comedy",1989-07-23,8.7,747084,2232.0
+305,Movie 305,"Thriller, Drama",1985-01-10,7.6,1231482,351.6
+306,Movie 306,Comedy,2007-08-18,7.9,1811461,354.7
+307,Movie 307,Thriller,2015-02-20,8.1,1460759,2598.0
+308,Movie 308,Sci-Fi,2006-07-25,6.3,2446866,2720.4
+309,Movie 309,Family,1990-11-13,6.6,1227927,938.3
+310,Movie 310,"Comedy, Drama",1990-07-09,7.5,2131013,2358.9
+311,Movie 311,"Sci-Fi, Romance",2020-08-20,8.2,2020410,365.6
+312,Movie 312,"Action, Adventure",2001-10-13,8.8,1482198,1348.7
+313,Movie 313,"Comedy, Sci-Fi",2000-10-23,6.7,1417780,574.0
+314,Movie 314,"Thriller, Sci-Fi",2020-08-19,8.7,1466865,1159.4
+315,Movie 315,"Thriller, Drama",2016-04-19,9.5,854669,2061.1
+316,Movie 316,"Action, Animation, Thriller",1993-08-26,7.0,390072,2465.9
+317,Movie 317,"Animation, Comedy",2020-05-08,6.9,746523,2159.9
+318,Movie 318,"Drama, Animation",2018-08-19,7.4,2224887,2774.3
+319,Movie 319,"Adventure, Action, Family",2003-12-26,7.9,456440,372.6
+320,Movie 320,Thriller,1990-11-20,6.2,1776118,2902.1
+321,Movie 321,"Adventure, Drama",1980-02-09,6.8,2275995,1696.1
+322,Movie 322,"Romance, Animation, Comedy",2005-08-25,8.4,2199105,494.7
+323,Movie 323,Animation,1986-05-14,9.2,460101,392.4
+324,Movie 324,"Comedy, Thriller, Family",2001-08-26,6.7,2125538,1077.5
+325,Movie 325,Animation,2008-06-03,7.1,582702,116.6
+326,Movie 326,"Drama, Comedy",1995-09-06,7.9,1488271,1701.6
+327,Movie 327,"Romance, Adventure",2020-03-06,8.2,1912503,1217.0
+328,Movie 328,"Romance, Animation, Sci-Fi",2007-07-01,8.5,963122,871.1
+329,Movie 329,"Drama, Family, Adventure",2014-03-12,7.1,2019105,386.2
+330,Movie 330,"Animation, Thriller, Sci-Fi",2004-10-13,8.1,1559301,1088.4
+331,Movie 331,"Comedy, Sci-Fi",2019-10-03,8.4,1413596,397.7
+332,Movie 332,"Drama, Comedy",2003-12-05,7.8,1854221,1809.5
+333,Movie 333,"Adventure, Family, Drama",2011-11-18,8.4,826599,1687.0
+334,Movie 334,"Sci-Fi, Comedy",1991-06-27,7.6,324861,2603.3
+335,Movie 335,Animation,1988-04-27,7.3,2455445,1541.0
+336,Movie 336,"Adventure, Animation",2006-12-27,7.6,801511,293.9
+337,Movie 337,Romance,1998-01-09,6.8,1310771,546.2
+338,Movie 338,"Animation, Drama",2016-02-09,8.7,1638729,1649.0
+339,Movie 339,Animation,2014-04-14,6.4,1138222,928.2
+340,Movie 340,Animation,1996-06-28,8.9,1941592,2602.6
+341,Movie 341,Romance,1993-12-19,8.4,1895862,539.6
+342,Movie 342,Romance,1993-01-19,7.2,1278956,1810.7
+343,Movie 343,Thriller,1998-05-19,6.9,2257612,2957.2
+344,Movie 344,"Drama, Comedy, Adventure",2006-01-09,9.0,632207,2119.2
+345,Movie 345,Romance,1989-12-11,8.9,1747106,1493.9
+346,Movie 346,"Sci-Fi, Adventure, Romance",2008-02-21,8.8,490467,1238.4
+347,Movie 347,"Sci-Fi, Thriller, Romance",2011-06-19,6.0,490664,2206.2
+348,Movie 348,"Thriller, Drama",2014-07-07,9.4,988569,1509.4
+349,Movie 349,"Sci-Fi, Thriller",2015-10-05,8.0,2135654,2375.5
+350,Movie 350,"Action, Family, Animation",2020-08-01,6.4,762630,1351.8
+351,Movie 351,Adventure,1992-12-05,9.1,1366115,519.0
+352,Movie 352,"Drama, Thriller",1996-02-12,8.3,794262,202.8
+353,Movie 353,"Sci-Fi, Romance, Animation",2021-02-23,6.3,995153,1456.6
+354,Movie 354,Romance,2013-11-15,6.0,1541054,2460.5
+355,Movie 355,"Comedy, Animation",1984-04-13,6.3,529610,354.4
+356,Movie 356,"Sci-Fi, Comedy",2004-03-21,9.5,699169,251.8
+357,Movie 357,"Action, Comedy, Romance",2002-12-07,8.2,734909,2763.7
+358,Movie 358,"Animation, Romance, Action",1986-03-25,6.4,1710746,1087.0
+359,Movie 359,"Thriller, Comedy",1995-05-21,6.3,2421113,1822.9
+360,Movie 360,"Sci-Fi, Action, Adventure",2022-05-07,7.8,2237092,606.5
+361,Movie 361,"Sci-Fi, Action",1995-08-13,6.4,2195401,1932.3
+362,Movie 362,Family,1980-06-11,6.5,2483960,1291.5
+363,Movie 363,"Comedy, Animation, Adventure",1984-01-19,6.2,1199684,686.4
+364,Movie 364,Adventure,2012-05-21,8.5,1842448,1299.5
+365,Movie 365,"Drama, Comedy",1997-02-10,6.3,952272,2924.2
+366,Movie 366,Family,2000-07-19,8.2,377306,965.0
+367,Movie 367,"Romance, Action",1995-02-14,6.4,330806,962.4
+368,Movie 368,"Comedy, Drama, Action",1988-12-01,6.6,1554186,1592.9
+369,Movie 369,"Sci-Fi, Comedy, Animation",1988-12-25,9.1,595165,2325.7
+370,Movie 370,Thriller,2007-05-17,6.2,423255,1513.6
+371,Movie 371,"Thriller, Action, Romance",2016-03-12,6.6,531614,2688.1
+372,Movie 372,"Drama, Romance, Thriller",2012-01-02,9.0,151539,771.4
+373,Movie 373,"Thriller, Adventure",1989-03-28,6.1,1858962,712.3
+374,Movie 374,Adventure,2000-05-27,6.3,1663670,402.2
+375,Movie 375,"Action, Comedy, Drama",2013-01-13,6.2,2050746,2604.8
+376,Movie 376,"Thriller, Drama",2015-08-01,7.3,1323038,1713.2
+377,Movie 377,"Romance, Animation",2003-10-16,9.5,919661,2210.8
+378,Movie 378,"Romance, Comedy, Action",2006-01-08,7.9,140243,2855.4
+379,Movie 379,Adventure,1999-02-07,7.9,1098947,1288.5
+380,Movie 380,Comedy,1997-02-02,9.2,2280028,1268.5
+381,Movie 381,"Animation, Drama",2017-02-17,6.5,1754029,270.7
+382,Movie 382,"Action, Adventure, Thriller",1988-04-10,6.9,1421243,2781.8
+383,Movie 383,"Thriller, Family",2008-05-08,6.3,950238,451.5
+384,Movie 384,"Drama, Comedy, Action",1990-08-15,7.1,606406,1631.0
+385,Movie 385,Animation,1999-08-09,9.0,479252,515.0
+386,Movie 386,"Sci-Fi, Action, Drama",2000-03-03,8.5,1592093,1218.9
+387,Movie 387,Sci-Fi,1996-03-01,9.3,1996669,1690.1
+388,Movie 388,"Romance, Drama, Family",1986-03-04,6.0,1032344,435.6
+389,Movie 389,"Thriller, Drama",2017-10-09,9.2,414519,114.3
+390,Movie 390,Romance,2021-08-26,6.5,1490621,411.5
+391,Movie 391,"Action, Comedy",2016-07-27,8.5,2180904,137.0
+392,Movie 392,"Adventure, Comedy, Animation",1993-03-09,7.0,723405,152.2
+393,Movie 393,"Romance, Sci-Fi, Family",2006-09-16,6.2,1273465,1179.9
+394,Movie 394,"Romance, Family",2020-09-26,6.1,1704313,2356.7
+395,Movie 395,"Animation, Family",2002-10-17,7.1,1234289,580.5
+396,Movie 396,"Romance, Action",1997-01-26,9.5,2320599,1104.4
+397,Movie 397,"Romance, Comedy, Action",1995-11-08,6.9,334497,2303.9
+398,Movie 398,Adventure,2002-03-06,6.8,1433806,2428.3
+399,Movie 399,"Thriller, Action, Family",2002-10-19,6.5,889509,2518.3
+400,Movie 400,"Family, Sci-Fi",1991-08-02,6.3,1075693,1824.9
+401,Movie 401,Family,2010-01-11,9.2,945002,2429.0
+402,Movie 402,"Comedy, Thriller",1983-01-05,8.1,694134,2334.4
+403,Movie 403,"Thriller, Drama, Comedy",2022-07-19,6.4,1365694,1001.7
+404,Movie 404,Adventure,2020-08-21,7.1,2457103,2096.0
+405,Movie 405,"Thriller, Romance, Family",2017-03-13,7.1,1335294,425.7
+406,Movie 406,"Action, Adventure, Animation",2016-01-06,8.1,1026501,1937.0
+407,Movie 407,Animation,1989-06-24,6.3,1554627,2948.0
+408,Movie 408,Drama,2022-11-24,9.1,1973301,83.6
+409,Movie 409,Romance,1984-06-09,8.8,105373,192.0
+410,Movie 410,"Adventure, Comedy",2006-08-13,7.2,1674321,349.2
+411,Movie 411,"Romance, Comedy",2008-02-26,9.0,1336936,109.2
+412,Movie 412,"Drama, Family",2001-03-13,6.6,414582,1663.8
+413,Movie 413,Thriller,2018-10-16,8.5,1909101,2830.2
+414,Movie 414,Adventure,1990-01-04,7.2,896851,1257.4
+415,Movie 415,"Family, Sci-Fi, Thriller",1998-05-08,6.3,1747951,1736.7
+416,Movie 416,"Comedy, Action",2003-01-14,6.3,2114643,639.0
+417,Movie 417,Romance,1990-11-10,9.4,2086299,2539.1
+418,Movie 418,"Adventure, Animation",2011-11-09,6.3,2382229,1193.2
+419,Movie 419,"Adventure, Thriller",1991-08-02,6.9,2050594,827.0
+420,Movie 420,"Action, Comedy",2022-02-03,8.3,2371001,1271.3
+421,Movie 421,"Romance, Action, Adventure",2004-09-14,9.4,2091557,1739.5
+422,Movie 422,Animation,1999-02-13,9.2,245661,1531.2
+423,Movie 423,"Comedy, Drama, Adventure",2008-03-06,9.4,908351,422.2
+424,Movie 424,"Drama, Adventure",1992-11-05,8.9,1181653,993.3
+425,Movie 425,"Drama, Family, Romance",2015-07-18,7.1,1258470,1583.1
+426,Movie 426,Family,2006-02-14,6.5,2476467,1784.4
+427,Movie 427,Drama,2016-02-26,7.0,2346609,2646.4
+428,Movie 428,"Sci-Fi, Adventure",2021-08-19,8.1,257142,558.0
+429,Movie 429,"Comedy, Adventure",1982-07-11,8.4,306741,2250.0
+430,Movie 430,"Thriller, Action",2001-05-10,7.0,2162000,2581.8
+431,Movie 431,"Drama, Romance, Family",1999-12-15,8.7,1445819,844.8
+432,Movie 432,"Drama, Romance",2008-04-27,7.4,2131973,2290.5
+433,Movie 433,"Action, Comedy",1984-05-23,7.8,668956,2352.5
+434,Movie 434,"Action, Comedy, Drama",1992-01-08,6.1,312060,2758.2
+435,Movie 435,"Romance, Sci-Fi, Comedy",2009-09-13,8.2,619560,2059.5
+436,Movie 436,Thriller,2011-10-15,6.6,2090542,1781.3
+437,Movie 437,"Thriller, Comedy",1996-12-27,8.4,1295667,131.0
+438,Movie 438,Comedy,2016-04-28,6.8,1044188,2049.2
+439,Movie 439,"Adventure, Action",2023-01-16,9.2,826456,1823.4
+440,Movie 440,Romance,1996-10-26,9.3,1255021,1300.2
+441,Movie 441,"Thriller, Animation",1996-04-15,7.1,2283713,2481.7
+442,Movie 442,"Drama, Action",2012-11-27,8.9,2454921,1959.7
+443,Movie 443,"Sci-Fi, Family, Thriller",1986-08-03,7.2,1259654,1939.8
+444,Movie 444,"Sci-Fi, Family",1992-03-17,8.7,338130,2426.0
+445,Movie 445,"Adventure, Thriller, Animation",1988-12-01,8.3,1339855,815.3
+446,Movie 446,"Adventure, Family",1982-10-23,9.5,896561,1062.3
+447,Movie 447,"Romance, Animation, Thriller",2002-09-10,9.0,2441462,584.4
+448,Movie 448,Animation,1988-12-09,8.5,2444748,2300.6
+449,Movie 449,Thriller,2021-02-08,7.2,1388008,1290.4
+450,Movie 450,"Thriller, Sci-Fi",2017-05-15,9.0,2073573,208.3
+451,Movie 451,"Drama, Animation, Family",2012-02-28,8.4,2322303,930.1
+452,Movie 452,Comedy,1988-04-11,7.4,2488251,2683.9
+453,Movie 453,"Comedy, Thriller",1991-02-16,7.2,841654,974.6
+454,Movie 454,Action,2008-05-07,8.7,807183,1750.0
+455,Movie 455,Animation,1985-03-20,7.5,1901074,1240.0
+456,Movie 456,"Adventure, Action",1982-09-07,8.6,159043,2681.4
+457,Movie 457,"Romance, Action, Thriller",1980-11-24,6.9,1544307,970.7
+458,Movie 458,Adventure,2012-10-10,6.6,291756,929.7
+459,Movie 459,"Animation, Thriller",2007-11-05,7.2,2155958,1109.8
+460,Movie 460,Comedy,2005-01-08,6.8,650316,673.0
+461,Movie 461,Family,1990-02-12,8.5,256713,1156.8
+462,Movie 462,"Sci-Fi, Action, Family",1983-11-04,8.3,182802,192.3
+463,Movie 463,Adventure,2008-07-04,7.9,2089762,2120.5
+464,Movie 464,Action,1999-07-22,6.4,2282335,846.4
+465,Movie 465,"Comedy, Adventure, Animation",1986-09-24,8.2,1285758,386.3
+466,Movie 466,Animation,1992-10-07,8.7,2294233,2920.7
+467,Movie 467,"Adventure, Sci-Fi",1990-01-18,7.7,971131,2080.2
+468,Movie 468,"Thriller, Romance",1980-01-22,6.3,563180,2513.9
+469,Movie 469,"Animation, Comedy, Action",2012-02-24,8.5,1173289,1950.8
+470,Movie 470,"Sci-Fi, Family",2009-01-04,8.8,265442,2564.1
+471,Movie 471,"Thriller, Adventure",1987-02-28,8.7,292472,78.5
+472,Movie 472,Comedy,2001-06-15,9.3,1225371,2641.5
+473,Movie 473,Thriller,2001-03-04,7.4,2014862,851.9
+474,Movie 474,"Animation, Adventure",2021-03-04,6.5,345980,2945.6
+475,Movie 475,Drama,2006-10-16,8.8,1937788,584.7
+476,Movie 476,"Thriller, Action",2023-12-05,7.7,2147335,383.2
+477,Movie 477,"Animation, Action",1984-05-21,7.1,2301245,2314.2
+478,Movie 478,"Romance, Thriller, Sci-Fi",2013-12-23,8.2,1915495,2002.1
+479,Movie 479,Animation,2002-11-22,8.2,723501,2525.1
+480,Movie 480,"Action, Family, Thriller",1990-09-28,7.6,2179682,2614.8
+481,Movie 481,Animation,2000-04-11,9.4,311186,1545.4
+482,Movie 482,"Adventure, Family, Animation",1995-02-15,7.6,1979461,309.7
+483,Movie 483,"Animation, Thriller",1987-08-24,8.3,530517,1240.1
+484,Movie 484,Family,2015-01-27,6.3,1377576,2675.8
+485,Movie 485,"Romance, Animation, Comedy",2003-01-27,6.8,2006143,1029.3
+486,Movie 486,"Animation, Thriller, Family",2008-02-04,8.7,1030074,56.5
+487,Movie 487,"Sci-Fi, Thriller",1986-01-06,7.7,1816354,365.5
+488,Movie 488,"Romance, Family, Action",2005-04-15,8.9,899345,2164.5
+489,Movie 489,Adventure,1982-11-27,8.4,616818,2327.8
+490,Movie 490,"Animation, Comedy",2011-01-17,8.6,2420399,2809.2
+491,Movie 491,"Animation, Comedy, Thriller",2017-03-24,8.9,534336,1192.8
+492,Movie 492,"Thriller, Adventure, Romance",2018-12-25,6.9,1768787,2892.6
+493,Movie 493,"Animation, Comedy",1988-07-20,8.5,2248719,931.8
+494,Movie 494,"Family, Thriller, Animation",2015-11-07,6.7,1318778,2075.5
+495,Movie 495,"Comedy, Family, Sci-Fi",2014-12-21,7.1,584044,2294.3
+496,Movie 496,"Animation, Adventure, Thriller",2014-05-28,7.5,153563,1592.1
+497,Movie 497,Adventure,1989-01-22,6.2,1219788,2263.0
+498,Movie 498,Sci-Fi,2023-05-05,8.9,1337909,651.8
+499,Movie 499,"Action, Thriller, Adventure",2008-02-20,9.0,2456716,2601.3
+500,Movie 500,"Family, Adventure, Drama",2012-12-10,8.4,297047,2783.1
+501,Movie 501,"Adventure, Thriller",2015-01-01,8.6,951809,1880.7
+502,Movie 502,"Romance, Thriller",2017-09-24,8.1,911588,917.8
+503,Movie 503,Drama,1991-03-24,7.8,1682084,169.9
+504,Movie 504,"Family, Sci-Fi",1988-03-19,9.0,123677,1025.2
+505,Movie 505,"Comedy, Action, Drama",2000-10-02,8.7,1363134,1497.1
+506,Movie 506,"Family, Thriller, Action",2000-09-08,9.3,2283581,251.1
+507,Movie 507,"Comedy, Adventure, Sci-Fi",2014-07-03,7.2,994870,2006.8
+508,Movie 508,"Thriller, Sci-Fi",1993-10-17,7.7,2454408,2479.9
+509,Movie 509,"Action, Drama, Thriller",2002-08-08,9.2,1122685,2878.7
+510,Movie 510,"Thriller, Adventure, Animation",1987-07-09,7.9,1286270,122.9
+511,Movie 511,"Thriller, Animation, Romance",1982-05-21,6.7,2255430,292.9
+512,Movie 512,Comedy,2014-09-01,8.2,984081,2027.5
+513,Movie 513,Adventure,1986-04-18,8.9,1925519,1957.4
+514,Movie 514,Comedy,1981-08-23,7.2,467089,266.1
+515,Movie 515,Sci-Fi,2015-02-19,8.9,1184848,1252.5
+516,Movie 516,"Adventure, Family",2000-01-13,8.4,2343257,67.4
+517,Movie 517,"Drama, Action, Thriller",1984-06-17,6.4,1363956,1839.4
+518,Movie 518,"Animation, Adventure",2005-11-01,7.7,2337525,698.6
+519,Movie 519,"Adventure, Sci-Fi, Thriller",1989-05-22,9.1,1665022,2874.3
+520,Movie 520,Family,2015-03-04,6.1,1752898,1634.6
+521,Movie 521,Sci-Fi,1993-12-24,9.2,1542218,674.6
+522,Movie 522,"Family, Comedy, Drama",1991-04-20,8.9,915063,388.1
+523,Movie 523,"Action, Animation, Thriller",2015-02-10,8.4,1151460,339.7
+524,Movie 524,"Animation, Thriller, Comedy",1988-11-21,6.8,1295951,1877.6
+525,Movie 525,Thriller,2011-08-11,8.2,1382095,2095.7
+526,Movie 526,Thriller,2000-07-06,6.0,1132533,2367.7
+527,Movie 527,"Adventure, Sci-Fi, Family",2003-03-22,8.6,2113072,1415.4
+528,Movie 528,"Sci-Fi, Animation",2015-02-06,8.3,443822,2533.3
+529,Movie 529,Family,1992-05-24,9.1,420706,2195.9
+530,Movie 530,Family,2020-01-27,8.0,1799257,2319.1
+531,Movie 531,Action,2015-05-18,9.1,2363569,1442.7
+532,Movie 532,Thriller,2005-04-25,8.1,1320538,444.9
+533,Movie 533,"Family, Drama, Romance",2003-09-01,8.3,795598,2283.8
+534,Movie 534,Animation,1990-03-19,9.3,713203,2221.0
+535,Movie 535,"Thriller, Action",1994-08-08,6.2,1649523,740.4
+536,Movie 536,"Romance, Thriller, Family",2010-08-02,6.1,1459252,354.5
+537,Movie 537,"Sci-Fi, Family, Animation",2014-10-06,7.3,1687621,1127.6
+538,Movie 538,"Drama, Sci-Fi, Romance",1994-09-13,7.2,1547170,1486.2
+539,Movie 539,"Action, Comedy",2008-03-08,6.3,1277800,674.0
+540,Movie 540,Comedy,2003-10-23,8.9,1066142,1273.1
+541,Movie 541,"Drama, Animation",2023-08-16,6.7,776315,1959.4
+542,Movie 542,"Action, Romance",1982-03-19,8.1,665073,1907.1
+543,Movie 543,Comedy,1983-03-09,9.2,2266948,2876.8
+544,Movie 544,"Action, Sci-Fi, Family",1993-08-20,9.5,2120263,553.2
+545,Movie 545,"Comedy, Family",2019-11-17,6.9,1537267,2770.9
+546,Movie 546,"Drama, Romance, Animation",2004-03-04,6.1,2292410,2585.8
+547,Movie 547,"Adventure, Comedy, Sci-Fi",1986-03-16,9.2,263731,2639.4
+548,Movie 548,"Family, Drama, Action",2010-11-05,9.2,2361929,2491.2
+549,Movie 549,"Adventure, Family, Comedy",1982-12-17,7.5,2122172,2379.2
+550,Movie 550,"Thriller, Drama",2007-03-09,7.7,1075229,2734.8
+551,Movie 551,Sci-Fi,2018-09-14,6.9,122940,2142.0
+552,Movie 552,Family,1987-09-01,7.3,961588,2078.9
+553,Movie 553,"Adventure, Thriller",1986-03-14,8.3,1163812,820.8
+554,Movie 554,"Adventure, Thriller, Sci-Fi",1997-11-13,8.6,1833204,1678.7
+555,Movie 555,"Animation, Comedy, Family",2015-09-16,6.9,1386196,1754.1
+556,Movie 556,"Adventure, Comedy, Family",2022-02-24,6.8,778617,345.8
+557,Movie 557,"Adventure, Thriller, Family",2015-10-23,8.4,318325,524.2
+558,Movie 558,"Action, Drama, Adventure",1989-08-20,7.5,368772,826.1
+559,Movie 559,"Drama, Action",2004-07-20,8.3,1301539,2149.2
+560,Movie 560,"Action, Comedy, Thriller",2011-08-01,6.7,2273292,893.7
+561,Movie 561,Family,2013-12-08,8.2,251251,1111.2
+562,Movie 562,"Action, Comedy, Family",1997-07-12,8.3,1800584,1778.9
+563,Movie 563,"Action, Drama, Family",2015-05-24,8.9,1560017,1075.1
+564,Movie 564,"Romance, Family",2009-07-19,6.0,834149,1251.0
+565,Movie 565,Family,1984-09-10,7.2,590771,2418.7
+566,Movie 566,"Family, Sci-Fi",2008-07-19,7.7,1120361,2284.5
+567,Movie 567,"Animation, Action",2010-02-09,6.2,1024350,2046.9
+568,Movie 568,Thriller,2006-06-17,7.9,1204568,782.4
+569,Movie 569,Adventure,2023-12-27,7.2,2425957,2797.6
+570,Movie 570,"Thriller, Family",1993-10-09,6.6,897620,1522.0
+571,Movie 571,Romance,1995-05-07,6.8,1147298,2517.2
+572,Movie 572,"Comedy, Drama",1987-02-22,9.3,2166386,1860.8
+573,Movie 573,"Action, Animation, Comedy",2019-06-16,9.1,1252313,1497.9
+574,Movie 574,"Sci-Fi, Adventure, Drama",2016-03-02,7.8,1874928,1461.0
+575,Movie 575,"Action, Thriller, Romance",2023-03-15,9.4,2273509,1407.2
+576,Movie 576,"Action, Family, Thriller",1993-07-19,6.4,1616670,1857.7
+577,Movie 577,"Comedy, Sci-Fi",1995-05-16,9.4,1539050,1129.5
+578,Movie 578,"Adventure, Romance",2006-12-25,7.3,1780207,874.9
+579,Movie 579,Comedy,2016-11-08,8.8,1232248,2422.1
+580,Movie 580,"Adventure, Family, Drama",1989-12-05,7.7,140862,571.0
+581,Movie 581,"Comedy, Thriller",2011-05-09,8.0,2481670,190.7
+582,Movie 582,Comedy,1983-04-27,6.9,503919,1377.1
+583,Movie 583,"Sci-Fi, Thriller",2003-09-18,9.3,1180934,1065.2
+584,Movie 584,"Drama, Thriller",2023-10-07,8.0,2358373,564.9
+585,Movie 585,"Thriller, Family",2023-09-16,8.7,1974560,2674.4
+586,Movie 586,"Sci-Fi, Animation",2020-03-28,6.6,1515109,1294.4
+587,Movie 587,"Adventure, Drama, Action",1990-06-08,7.1,1322037,2145.8
+588,Movie 588,"Adventure, Sci-Fi, Romance",2003-12-19,7.8,1988647,1271.3
+589,Movie 589,Action,1988-12-08,8.3,435815,671.2
+590,Movie 590,"Drama, Family",1984-08-18,6.2,1765191,1595.7
+591,Movie 591,Drama,1996-10-05,6.3,1735133,962.6
+592,Movie 592,Sci-Fi,2008-11-05,6.5,815581,134.3
+593,Movie 593,"Thriller, Family, Adventure",2010-08-28,7.9,1242588,1668.2
+594,Movie 594,Family,1991-10-20,7.6,2465522,1333.2
+595,Movie 595,"Family, Sci-Fi, Comedy",2010-09-08,8.8,1953296,958.2
+596,Movie 596,"Sci-Fi, Comedy",1999-01-01,7.8,671685,1064.5
+597,Movie 597,"Family, Action",2011-08-10,6.0,1905376,2404.0
+598,Movie 598,"Romance, Action, Sci-Fi",2003-04-14,9.1,1933356,1214.5
+599,Movie 599,Adventure,2004-04-09,6.3,1104795,1574.0
+600,Movie 600,"Sci-Fi, Family, Thriller",2014-05-14,6.7,387158,588.1
+601,Movie 601,"Drama, Animation",2019-08-09,8.5,2163580,604.0
+602,Movie 602,Comedy,1983-09-01,6.7,528966,882.2
+603,Movie 603,Animation,1980-04-03,6.5,2170222,690.7
+604,Movie 604,"Sci-Fi, Animation",2003-08-23,8.8,1485163,286.7
+605,Movie 605,Action,1997-07-03,7.9,861701,617.0
+606,Movie 606,"Adventure, Action",1987-12-08,7.3,1957912,779.1
+607,Movie 607,Romance,2009-12-25,6.3,974290,1444.8
+608,Movie 608,"Sci-Fi, Thriller, Drama",2020-12-02,8.6,2405105,1586.7
+609,Movie 609,"Animation, Sci-Fi",1992-06-02,9.0,1013470,2921.2
+610,Movie 610,Adventure,2000-01-06,8.8,601846,1217.6
+611,Movie 611,Action,1982-10-26,8.4,750083,1145.6
+612,Movie 612,Romance,1990-08-03,8.4,1519445,2796.0
+613,Movie 613,"Action, Family, Comedy",2021-03-23,7.9,550433,421.2
+614,Movie 614,Thriller,2015-11-25,7.2,1940120,2212.9
+615,Movie 615,Adventure,2002-12-05,6.9,265626,1481.6
+616,Movie 616,"Family, Sci-Fi",2014-12-16,6.7,882769,1653.7
+617,Movie 617,"Animation, Sci-Fi",2018-09-06,6.2,750223,1375.7
+618,Movie 618,"Family, Thriller",2009-01-25,8.2,1689823,2214.3
+619,Movie 619,Thriller,2019-04-11,8.5,2360547,2466.2
+620,Movie 620,Family,2023-08-25,7.9,1287529,1001.7
+621,Movie 621,"Thriller, Drama, Action",2013-11-03,6.2,644312,577.0
+622,Movie 622,Romance,1986-08-07,6.3,2494998,1943.2
+623,Movie 623,"Animation, Sci-Fi",1983-06-08,8.1,397266,88.6
+624,Movie 624,Animation,1985-08-26,8.2,1613833,1696.2
+625,Movie 625,"Thriller, Action",2019-05-17,6.1,395229,2511.6
+626,Movie 626,Romance,2013-02-04,8.5,2329948,1186.7
+627,Movie 627,Family,2022-04-19,8.2,850352,1697.3
+628,Movie 628,"Adventure, Drama, Family",2020-10-12,8.4,1891282,2654.3
+629,Movie 629,Comedy,2015-07-17,7.2,763440,1625.0
+630,Movie 630,"Animation, Thriller, Comedy",2015-06-28,7.3,1906017,2487.2
+631,Movie 631,"Romance, Family",2004-09-24,6.9,1997517,1370.1
+632,Movie 632,"Action, Family",1998-10-01,7.8,1366015,69.4
+633,Movie 633,Romance,2000-01-25,8.9,1257448,2761.4
+634,Movie 634,"Family, Comedy, Action",1982-08-12,6.5,1211440,1132.9
+635,Movie 635,"Romance, Family, Comedy",1999-02-19,7.4,1011998,2216.1
+636,Movie 636,"Thriller, Animation, Drama",2011-12-23,8.0,499985,1805.9
+637,Movie 637,"Action, Adventure",1985-01-25,7.2,1921604,1278.7
+638,Movie 638,Romance,2021-10-01,8.2,1704266,209.7
+639,Movie 639,"Action, Thriller, Sci-Fi",2016-03-11,7.8,1026090,501.9
+640,Movie 640,"Adventure, Animation, Family",2018-10-17,6.3,1911669,904.9
+641,Movie 641,"Comedy, Family",2001-02-16,8.0,306825,1667.0
+642,Movie 642,"Drama, Adventure",2012-07-25,8.4,665688,1468.7
+643,Movie 643,Animation,2005-11-19,6.7,2298854,776.4
+644,Movie 644,Sci-Fi,2007-06-22,9.2,475787,382.0
+645,Movie 645,"Adventure, Thriller",2002-04-11,7.2,201530,2320.6
+646,Movie 646,Thriller,2019-08-20,6.5,288230,2776.4
+647,Movie 647,Romance,2023-06-05,8.7,459931,381.5
+648,Movie 648,Romance,2019-03-28,8.9,1306638,90.5
+649,Movie 649,"Drama, Sci-Fi, Romance",2010-01-11,6.7,2356558,675.0
+650,Movie 650,"Family, Sci-Fi, Animation",2010-10-24,9.5,177127,1161.0
+651,Movie 651,"Family, Action, Comedy",1990-01-10,6.7,1237836,206.6
+652,Movie 652,"Action, Drama, Romance",2022-05-22,9.0,1610868,2599.6
+653,Movie 653,Sci-Fi,2021-07-08,9.4,2232972,2931.0
+654,Movie 654,Thriller,2011-10-18,6.3,934143,1526.9
+655,Movie 655,"Family, Action",1982-04-17,7.1,2154927,1210.5
+656,Movie 656,Action,2002-11-12,7.2,1368048,746.8
+657,Movie 657,"Sci-Fi, Action, Thriller",1996-07-27,9.5,2427584,2849.9
+658,Movie 658,Comedy,2001-07-22,6.5,1703092,1586.1
+659,Movie 659,"Romance, Adventure, Drama",2016-03-14,9.4,1481120,1375.0
+660,Movie 660,Romance,2021-03-19,7.9,948550,2594.6
+661,Movie 661,"Family, Comedy",2007-03-21,9.3,762901,986.6
+662,Movie 662,"Family, Drama, Animation",2000-03-24,6.1,1436672,2646.4
+663,Movie 663,"Adventure, Sci-Fi",2008-12-27,9.1,1248384,498.3
+664,Movie 664,Drama,1988-03-01,8.7,1219302,1836.5
+665,Movie 665,"Romance, Family, Drama",2023-01-12,6.3,2099014,445.6
+666,Movie 666,"Animation, Thriller, Drama",2004-08-16,6.5,910590,717.5
+667,Movie 667,"Action, Sci-Fi",2006-04-24,8.3,950745,2285.4
+668,Movie 668,Comedy,2008-10-16,8.4,2019082,2668.4
+669,Movie 669,"Adventure, Action",2018-12-27,7.3,1412387,1212.7
+670,Movie 670,"Family, Action, Sci-Fi",1986-08-15,8.9,277905,2639.5
+671,Movie 671,Family,2014-07-24,6.1,1724864,1572.6
+672,Movie 672,"Action, Romance, Comedy",2008-07-10,8.7,1299212,1411.0
+673,Movie 673,"Sci-Fi, Action",2013-03-15,8.9,1994559,316.8
+674,Movie 674,"Drama, Comedy, Adventure",2017-12-18,6.5,1834593,1004.2
+675,Movie 675,Comedy,2009-10-23,9.1,2007079,316.0
+676,Movie 676,"Comedy, Drama",1985-02-23,7.6,1622294,301.7
+677,Movie 677,"Adventure, Comedy, Romance",2015-07-02,8.7,1505901,1718.2
+678,Movie 678,"Comedy, Family, Adventure",1989-03-25,8.5,1859853,958.8
+679,Movie 679,"Animation, Sci-Fi, Thriller",1991-02-05,9.4,114818,1886.6
+680,Movie 680,"Action, Animation",2011-08-18,8.8,2169749,751.7
+681,Movie 681,"Animation, Family, Romance",2008-02-20,8.1,1126401,2652.4
+682,Movie 682,"Family, Romance",1983-03-05,6.2,1563895,158.3
+683,Movie 683,Sci-Fi,2001-02-02,6.4,847627,525.9
+684,Movie 684,"Family, Comedy",2009-12-19,7.3,250324,324.7
+685,Movie 685,"Thriller, Family",2004-02-25,7.5,2408843,241.5
+686,Movie 686,"Comedy, Drama",1997-06-17,7.4,980155,2102.7
+687,Movie 687,"Action, Drama, Sci-Fi",2020-09-03,7.7,1304550,1309.8
+688,Movie 688,"Sci-Fi, Thriller",1988-10-19,7.7,2187677,1502.9
+689,Movie 689,Romance,1998-04-01,6.4,2049871,1895.1
+690,Movie 690,Romance,2019-07-14,6.2,1566538,1703.2
+691,Movie 691,"Romance, Action, Thriller",1992-12-10,6.9,384525,957.9
+692,Movie 692,"Family, Thriller, Adventure",1980-02-22,7.2,1761151,2187.0
+693,Movie 693,"Action, Comedy, Drama",2001-06-22,7.7,2090199,2401.9
+694,Movie 694,"Comedy, Animation, Drama",2020-08-28,7.9,1505551,1414.3
+695,Movie 695,"Action, Sci-Fi",2016-12-22,7.1,2347666,105.2
+696,Movie 696,"Thriller, Family, Action",1989-05-27,6.1,1673873,1898.2
+697,Movie 697,Adventure,1991-10-04,9.0,1393025,2130.5
+698,Movie 698,"Action, Sci-Fi",2006-02-16,9.1,1658534,1383.1
+699,Movie 699,"Romance, Sci-Fi",1991-02-12,8.7,947662,2744.4
+700,Movie 700,"Family, Action",2010-09-05,6.7,2127828,2210.7
+701,Movie 701,"Sci-Fi, Thriller, Drama",1986-09-22,9.5,960617,2187.5
+702,Movie 702,"Adventure, Drama",1980-05-02,8.4,465222,1033.2
+703,Movie 703,Drama,2013-11-24,7.1,1409222,1934.6
+704,Movie 704,Thriller,1992-04-10,7.0,1438611,2329.7
+705,Movie 705,"Drama, Sci-Fi, Family",1990-05-04,6.1,2447240,1566.5
+706,Movie 706,Family,2002-09-11,6.9,1288110,1743.5
+707,Movie 707,Drama,1999-10-11,7.9,312761,433.7
+708,Movie 708,"Action, Drama",2004-01-03,7.5,850709,2128.8
+709,Movie 709,"Animation, Thriller, Comedy",2001-04-23,8.7,2337597,281.7
+710,Movie 710,"Comedy, Drama",2009-02-15,7.1,2052014,1438.1
+711,Movie 711,Comedy,2019-05-12,7.4,1485495,2376.9
+712,Movie 712,"Animation, Family",1981-02-16,6.4,2107612,1410.7
+713,Movie 713,Sci-Fi,2002-10-19,6.4,531728,1246.8
+714,Movie 714,"Drama, Thriller, Sci-Fi",2021-02-26,7.1,2033468,1232.4
+715,Movie 715,"Romance, Family",2015-03-16,7.3,1529058,664.3
+716,Movie 716,"Adventure, Family, Sci-Fi",2001-09-23,6.8,426712,2231.1
+717,Movie 717,"Animation, Drama, Sci-Fi",2018-08-11,7.9,1967372,569.7
+718,Movie 718,"Drama, Family",2023-10-25,8.9,1473249,1508.2
+719,Movie 719,"Action, Drama, Animation",1988-10-25,8.2,100773,2283.4
+720,Movie 720,"Comedy, Animation, Sci-Fi",1998-07-20,8.0,920685,656.7
+721,Movie 721,"Sci-Fi, Family",2007-12-12,9.5,134054,1853.9
+722,Movie 722,"Adventure, Comedy, Family",1998-01-12,9.2,322832,52.5
+723,Movie 723,"Thriller, Drama, Adventure",1998-01-08,7.5,1753681,1894.4
+724,Movie 724,"Adventure, Family, Romance",2007-09-07,8.3,2091755,460.3
+725,Movie 725,"Adventure, Thriller, Family",2006-03-10,9.5,626591,446.1
+726,Movie 726,Action,1989-12-16,8.3,669484,299.8
+727,Movie 727,"Adventure, Animation, Family",2018-07-20,6.6,2236641,1301.2
+728,Movie 728,"Adventure, Thriller",1994-03-14,8.1,2189421,2548.1
+729,Movie 729,Family,1997-07-18,8.0,240349,2935.8
+730,Movie 730,"Animation, Thriller, Action",2017-08-23,6.3,2307915,2951.6
+731,Movie 731,"Animation, Drama",2013-10-03,6.9,427499,2068.0
+732,Movie 732,"Sci-Fi, Action, Comedy",2014-01-16,7.6,2068103,1743.2
+733,Movie 733,"Adventure, Thriller",1998-05-06,6.1,1375365,2194.6
+734,Movie 734,"Sci-Fi, Action, Thriller",2010-10-06,8.0,1323701,2436.2
+735,Movie 735,"Action, Sci-Fi, Romance",1985-03-17,6.3,1265382,793.6
+736,Movie 736,"Sci-Fi, Family, Adventure",1996-01-24,6.4,832383,2734.9
+737,Movie 737,"Comedy, Animation, Family",1991-05-26,8.5,2133895,583.4
+738,Movie 738,"Action, Thriller, Family",1989-10-27,6.5,2180157,2270.6
+739,Movie 739,"Adventure, Romance",2022-08-24,8.2,984397,1754.4
+740,Movie 740,"Action, Sci-Fi",1987-01-06,7.6,2097461,939.0
+741,Movie 741,"Family, Romance, Animation",2023-12-13,7.7,708802,1614.8
+742,Movie 742,"Action, Sci-Fi",2008-07-22,7.1,2324044,2064.5
+743,Movie 743,Drama,2014-11-12,9.3,1911041,1850.9
+744,Movie 744,"Sci-Fi, Thriller, Comedy",1997-02-09,8.3,1740617,1410.3
+745,Movie 745,"Romance, Family, Sci-Fi",2001-11-23,9.5,1413948,1665.5
+746,Movie 746,"Action, Drama, Family",2006-02-17,6.4,1970417,1087.0
+747,Movie 747,"Sci-Fi, Family, Drama",1982-01-20,6.3,1009428,2853.9
+748,Movie 748,"Drama, Family, Action",2018-03-13,8.3,2474264,2419.4
+749,Movie 749,Drama,1991-05-10,7.6,417568,1934.4
+750,Movie 750,"Adventure, Thriller",1996-03-25,6.3,361671,1179.3
+751,Movie 751,"Action, Sci-Fi",1996-03-15,6.2,941667,1850.4
+752,Movie 752,Animation,1986-03-18,8.7,1015979,1861.2
+753,Movie 753,Animation,1996-02-02,6.3,2496392,2196.3
+754,Movie 754,"Action, Animation",1989-11-21,6.0,258694,2010.6
+755,Movie 755,"Comedy, Thriller",2005-10-01,7.8,2158058,1460.5
+756,Movie 756,"Drama, Romance",1980-07-23,8.9,2121932,407.6
+757,Movie 757,"Thriller, Family, Animation",1999-07-02,8.2,480284,1127.8
+758,Movie 758,"Drama, Animation",1998-11-07,6.6,264966,2904.2
+759,Movie 759,"Romance, Sci-Fi, Thriller",2004-02-21,8.4,2140543,300.3
+760,Movie 760,"Animation, Romance, Drama",1982-04-01,8.5,1100279,1493.2
+761,Movie 761,Family,2021-05-16,7.9,1984531,2901.4
+762,Movie 762,Action,2001-01-11,8.8,279577,1246.2
+763,Movie 763,Family,2009-11-28,9.1,724756,2236.1
+764,Movie 764,Drama,1982-12-05,7.7,179956,1440.1
+765,Movie 765,"Action, Romance, Thriller",2021-03-01,6.6,309539,2718.8
+766,Movie 766,Animation,2019-03-27,8.1,545985,386.8
+767,Movie 767,"Romance, Drama, Adventure",1992-07-11,8.8,1786146,1006.5
+768,Movie 768,"Family, Comedy, Animation",1993-01-19,6.6,365171,406.2
+769,Movie 769,Adventure,1990-12-12,7.9,1939878,768.8
+770,Movie 770,"Action, Comedy, Family",2020-10-13,8.7,165558,2644.9
+771,Movie 771,Action,1980-03-03,8.5,1290056,1277.9
+772,Movie 772,"Comedy, Romance",1989-11-09,7.8,1828184,755.8
+773,Movie 773,Action,2018-03-23,7.7,469187,1900.2
+774,Movie 774,"Thriller, Adventure",1980-09-08,6.7,2323815,2931.5
+775,Movie 775,"Thriller, Romance, Animation",2020-11-07,7.0,912516,382.4
+776,Movie 776,Animation,2011-03-06,8.3,280839,209.4
+777,Movie 777,"Sci-Fi, Romance",2007-05-11,8.2,2000638,177.8
+778,Movie 778,"Action, Comedy, Drama",1981-08-17,6.4,1086919,2178.1
+779,Movie 779,"Thriller, Adventure, Drama",2023-06-08,8.7,1467897,722.0
+780,Movie 780,Adventure,1992-07-08,6.3,2131753,210.3
+781,Movie 781,"Comedy, Romance",2019-08-06,7.4,672122,1400.3
+782,Movie 782,Thriller,1997-04-11,6.4,2485157,226.0
+783,Movie 783,Drama,2009-08-14,6.6,1541062,698.6
+784,Movie 784,"Comedy, Family",2016-09-28,6.8,1826778,2578.1
+785,Movie 785,"Romance, Animation",2009-05-01,8.6,1134542,781.1
+786,Movie 786,"Romance, Comedy",2016-01-14,9.4,268018,2974.3
+787,Movie 787,"Family, Action, Romance",2013-07-16,8.8,511038,1384.7
+788,Movie 788,Drama,2015-01-23,8.6,1014385,441.5
+789,Movie 789,"Romance, Drama",1981-08-22,7.1,2026371,2580.9
+790,Movie 790,"Action, Animation, Romance",1988-12-13,6.6,1653656,1899.1
+791,Movie 791,"Action, Drama, Romance",2001-09-02,7.0,1231578,2109.3
+792,Movie 792,"Family, Romance, Adventure",2023-02-20,9.1,329896,1568.5
+793,Movie 793,"Thriller, Action, Animation",2004-06-15,8.2,1633316,1131.0
+794,Movie 794,"Family, Drama, Sci-Fi",1993-03-11,6.8,576295,1964.7
+795,Movie 795,"Romance, Family, Comedy",2002-05-17,8.4,1262431,210.7
+796,Movie 796,"Thriller, Animation",2011-09-17,8.9,2072010,2144.0
+797,Movie 797,"Family, Sci-Fi, Romance",2019-06-26,8.4,375262,605.6
+798,Movie 798,"Drama, Family",2005-03-10,9.4,422740,372.6
+799,Movie 799,"Drama, Comedy",2011-03-28,6.7,195169,914.8
+800,Movie 800,"Family, Comedy, Romance",2002-07-15,8.6,190103,910.0
+801,Movie 801,Action,1994-09-21,7.2,1537775,1984.5
+802,Movie 802,"Animation, Family",2009-05-19,6.5,1385533,556.6
+803,Movie 803,"Romance, Animation",2003-05-25,9.0,722176,1091.7
+804,Movie 804,"Comedy, Family",2014-05-06,9.4,743761,525.7
+805,Movie 805,Action,2000-10-05,7.5,1650517,594.3
+806,Movie 806,"Action, Thriller, Comedy",1989-06-15,7.9,781983,1624.2
+807,Movie 807,Action,2005-08-25,6.5,2021162,2787.0
+808,Movie 808,Action,2014-09-11,8.3,1339655,1448.0
+809,Movie 809,"Comedy, Animation",2001-12-04,8.6,268111,461.3
+810,Movie 810,"Drama, Sci-Fi, Action",2005-10-27,6.8,1599017,322.8
+811,Movie 811,Romance,2017-09-08,8.7,1265711,627.4
+812,Movie 812,Family,2008-11-22,9.4,2246592,1213.5
+813,Movie 813,"Thriller, Action",2022-06-13,6.5,1893654,1140.4
+814,Movie 814,"Action, Sci-Fi",2002-06-10,9.4,2453143,308.4
+815,Movie 815,"Animation, Adventure, Family",2008-05-06,8.8,1877681,2199.4
+816,Movie 816,"Comedy, Drama",1989-04-10,7.7,2303272,2960.6
+817,Movie 817,Adventure,1985-01-14,8.2,1246424,1272.8
+818,Movie 818,"Animation, Comedy, Drama",1991-07-10,7.9,277137,2477.3
+819,Movie 819,"Sci-Fi, Animation",2015-12-15,6.8,110262,504.4
+820,Movie 820,"Animation, Drama",2021-11-10,7.5,2163121,2725.0
+821,Movie 821,"Romance, Action, Animation",1997-08-03,8.1,1617329,1764.1
+822,Movie 822,"Adventure, Sci-Fi, Thriller",2023-08-23,8.9,1665323,1562.0
+823,Movie 823,"Action, Sci-Fi, Drama",2017-01-05,7.1,668317,1104.3
+824,Movie 824,Sci-Fi,2003-07-21,9.2,1593106,193.7
+825,Movie 825,"Family, Drama",2012-04-25,8.2,496398,1816.3
+826,Movie 826,Family,2000-06-27,9.0,1362788,850.8
+827,Movie 827,"Thriller, Drama, Sci-Fi",2017-06-27,6.5,674407,1578.6
+828,Movie 828,"Animation, Adventure",2001-03-04,6.8,2211340,702.3
+829,Movie 829,Family,2019-12-27,9.3,2331770,2152.0
+830,Movie 830,"Drama, Adventure, Romance",1984-02-27,6.5,172894,1464.6
+831,Movie 831,"Thriller, Comedy",2008-10-17,8.7,1534641,558.0
+832,Movie 832,"Action, Drama",1994-03-28,8.4,1050322,956.9
+833,Movie 833,Comedy,1985-07-23,8.7,568596,279.3
+834,Movie 834,"Adventure, Action",1992-02-02,8.8,2253687,1799.9
+835,Movie 835,"Drama, Sci-Fi",1982-02-10,8.3,504765,2358.0
+836,Movie 836,"Romance, Family, Drama",2022-06-01,6.3,1263397,2848.9
+837,Movie 837,"Thriller, Comedy",2012-12-20,6.8,2491740,251.6
+838,Movie 838,"Action, Romance, Thriller",1992-05-06,9.2,2352871,62.8
+839,Movie 839,"Drama, Romance, Sci-Fi",2010-06-23,8.1,1944092,2036.9
+840,Movie 840,Comedy,2002-07-14,6.7,1054431,1252.4
+841,Movie 841,"Drama, Animation",1987-09-05,7.7,1615194,2129.0
+842,Movie 842,"Action, Drama, Comedy",2011-02-13,7.0,1408651,2076.8
+843,Movie 843,"Romance, Adventure",1998-07-07,9.0,2095133,2820.3
+844,Movie 844,"Comedy, Action",2023-08-22,6.4,1937349,1591.9
+845,Movie 845,"Drama, Family, Animation",2005-07-23,8.1,526653,2237.2
+846,Movie 846,Drama,2003-04-11,6.7,1795711,412.1
+847,Movie 847,"Animation, Sci-Fi",2017-10-09,8.6,1778709,1100.5
+848,Movie 848,"Adventure, Animation, Sci-Fi",1997-03-25,7.6,612502,789.5
+849,Movie 849,"Romance, Comedy",1981-02-24,6.2,386171,1519.5
+850,Movie 850,Comedy,2004-10-22,7.1,1369836,1884.8
+851,Movie 851,Drama,2022-09-25,7.7,2054637,645.7
+852,Movie 852,"Animation, Family, Sci-Fi",1996-09-11,8.8,2367142,1662.5
+853,Movie 853,Adventure,1987-07-15,7.1,1678469,1355.5
+854,Movie 854,Action,1991-09-22,9.0,1371061,2659.9
+855,Movie 855,Animation,2007-03-10,8.5,2144534,2303.8
+856,Movie 856,"Animation, Family, Romance",2015-03-17,6.2,1204741,1509.3
+857,Movie 857,"Thriller, Sci-Fi",2000-01-01,8.1,637701,2519.0
+858,Movie 858,"Action, Thriller",2004-02-14,7.2,1598901,1265.2
+859,Movie 859,Romance,1995-04-21,7.1,456271,2735.6
+860,Movie 860,Sci-Fi,1987-06-06,6.1,1467833,160.3
+861,Movie 861,"Adventure, Family, Comedy",1981-12-16,8.1,1427557,1164.3
+862,Movie 862,"Thriller, Drama",2011-02-23,8.4,1509149,1515.4
+863,Movie 863,"Thriller, Comedy, Sci-Fi",1999-06-14,6.7,415919,2529.1
+864,Movie 864,"Romance, Sci-Fi, Comedy",1983-05-19,7.4,1047434,1892.5
+865,Movie 865,Drama,2017-06-09,6.2,2327442,1452.0
+866,Movie 866,Thriller,1984-11-27,7.1,1357909,1327.1
+867,Movie 867,"Thriller, Romance, Animation",2005-05-20,7.8,2396643,582.8
+868,Movie 868,Family,1991-10-16,6.7,2059978,840.4
+869,Movie 869,"Family, Adventure, Sci-Fi",2020-01-17,6.7,2039809,485.8
+870,Movie 870,Sci-Fi,2007-07-11,9.0,370228,1920.1
+871,Movie 871,"Sci-Fi, Family",2021-03-09,8.4,1090400,1247.3
+872,Movie 872,Comedy,1992-01-08,8.8,1402501,1419.3
+873,Movie 873,"Adventure, Family, Thriller",1982-04-06,7.0,222229,812.3
+874,Movie 874,"Family, Comedy",2021-01-24,7.7,183503,213.2
+875,Movie 875,Thriller,2018-05-28,6.2,1807110,2695.5
+876,Movie 876,"Drama, Adventure, Animation",1988-04-04,8.0,2198194,2802.2
+877,Movie 877,"Family, Sci-Fi, Romance",1985-04-20,6.4,1414538,1021.4
+878,Movie 878,"Adventure, Romance, Animation",1993-03-04,6.6,1251534,1346.5
+879,Movie 879,"Action, Animation",2014-06-23,9.3,1427455,1659.9
+880,Movie 880,"Romance, Sci-Fi",1989-06-16,8.5,1392564,112.2
+881,Movie 881,"Action, Family, Thriller",2022-04-09,7.9,1397166,1934.9
+882,Movie 882,"Thriller, Drama, Sci-Fi",1995-08-13,6.0,1748258,2786.1
+883,Movie 883,"Sci-Fi, Drama",1995-05-07,9.0,772041,2751.9
+884,Movie 884,"Thriller, Adventure, Animation",1982-05-28,6.3,2162305,1439.7
+885,Movie 885,"Thriller, Adventure",1986-03-23,6.9,378364,1088.0
+886,Movie 886,"Family, Thriller, Romance",1981-01-21,8.2,1959775,2383.5
+887,Movie 887,Action,2005-04-21,7.1,444906,376.9
+888,Movie 888,Family,2021-03-28,8.1,1820990,2388.3
+889,Movie 889,"Animation, Family",1988-05-06,8.4,1473971,2408.6
+890,Movie 890,Drama,2006-06-06,7.4,1682594,2837.0
+891,Movie 891,"Romance, Action, Animation",2015-11-20,8.2,473194,2923.7
+892,Movie 892,Sci-Fi,1990-01-13,8.2,1191180,490.3
+893,Movie 893,"Comedy, Drama",1980-12-17,7.5,2002988,2490.4
+894,Movie 894,"Drama, Romance",1993-04-28,8.8,1216535,899.5
+895,Movie 895,"Adventure, Comedy",2007-04-20,6.8,1286850,2193.8
+896,Movie 896,Adventure,1991-07-26,6.5,1317157,2929.6
+897,Movie 897,Animation,1995-06-19,8.4,2021679,302.9
+898,Movie 898,"Comedy, Thriller",2005-11-07,8.5,1875410,2221.5
+899,Movie 899,"Drama, Family",2015-01-02,7.2,1084996,1439.3
+900,Movie 900,"Action, Family",1996-09-20,7.3,1755478,2030.2
+901,Movie 901,Family,1982-10-06,6.9,2212866,1503.9
+902,Movie 902,"Animation, Comedy",1985-06-23,7.9,694734,818.2
+903,Movie 903,"Action, Comedy",2011-05-24,7.3,1903911,884.6
+904,Movie 904,"Sci-Fi, Thriller",2007-03-11,8.6,2160555,2302.8
+905,Movie 905,Family,2022-11-26,7.5,892387,488.4
+906,Movie 906,Comedy,1982-08-09,6.6,2059297,1337.5
+907,Movie 907,"Action, Animation",2002-12-18,7.7,2167743,381.8
+908,Movie 908,"Comedy, Drama, Family",1985-04-28,7.0,805880,2262.3
+909,Movie 909,"Romance, Action",2013-10-06,7.5,422271,776.2
+910,Movie 910,"Drama, Thriller",1981-05-22,9.4,611667,1212.8
+911,Movie 911,"Drama, Thriller, Family",1981-02-15,8.9,2112658,1389.5
+912,Movie 912,"Action, Thriller",1982-11-20,9.3,1462794,2844.9
+913,Movie 913,"Comedy, Romance, Adventure",1983-11-10,7.1,332930,2244.2
+914,Movie 914,"Adventure, Drama, Romance",1996-03-08,9.4,1773180,313.1
+915,Movie 915,Comedy,2004-07-10,8.3,746487,405.8
+916,Movie 916,"Adventure, Sci-Fi",2023-10-05,7.3,503120,2504.6
+917,Movie 917,"Romance, Animation, Family",2004-08-09,8.0,1874486,316.2
+918,Movie 918,"Thriller, Comedy",2007-11-14,6.3,2253110,1058.1
+919,Movie 919,"Romance, Comedy",2011-09-21,8.3,452196,907.6
+920,Movie 920,"Drama, Animation",1999-03-05,8.4,1360005,2532.5
+921,Movie 921,"Adventure, Sci-Fi, Animation",1983-09-03,9.2,2253416,367.5
+922,Movie 922,"Adventure, Drama",2009-11-24,8.0,1162754,1098.6
+923,Movie 923,"Drama, Action, Animation",2022-08-06,8.8,1748182,183.5
+924,Movie 924,"Sci-Fi, Thriller",2017-12-15,8.7,1987218,1890.2
+925,Movie 925,"Thriller, Comedy",1993-03-03,8.6,1187657,2621.3
+926,Movie 926,Adventure,2014-01-01,7.4,155803,556.6
+927,Movie 927,"Animation, Adventure",2022-12-20,8.5,1370035,1874.6
+928,Movie 928,"Thriller, Adventure, Animation",1999-02-05,6.5,900281,380.1
+929,Movie 929,Romance,1981-04-16,8.3,1114099,1335.6
+930,Movie 930,"Family, Romance, Action",1999-08-05,7.7,191506,393.6
+931,Movie 931,Animation,2011-08-01,9.0,1117662,643.9
+932,Movie 932,"Adventure, Action, Comedy",1980-02-21,9.0,1911049,2939.5
+933,Movie 933,"Family, Sci-Fi",1982-08-13,7.7,2146407,734.1
+934,Movie 934,Family,1981-07-19,7.1,366382,840.2
+935,Movie 935,"Adventure, Animation, Action",2011-10-21,7.2,1929681,111.4
+936,Movie 936,"Romance, Animation",2002-08-08,7.8,1522510,2769.1
+937,Movie 937,"Animation, Comedy, Family",2004-07-27,9.3,1611021,2398.1
+938,Movie 938,Romance,1998-12-24,6.3,2125386,430.8
+939,Movie 939,Comedy,2018-08-04,8.8,2170833,945.8
+940,Movie 940,Family,1983-01-12,9.1,1597550,2046.9
+941,Movie 941,Family,1982-02-11,7.5,1050807,406.0
+942,Movie 942,Animation,1996-06-26,7.2,295774,2321.8
+943,Movie 943,"Sci-Fi, Comedy, Adventure",2012-10-22,6.4,311485,2783.6
+944,Movie 944,"Animation, Drama",1986-10-20,8.7,527265,2479.7
+945,Movie 945,Family,1986-03-21,6.4,961452,2737.4
+946,Movie 946,Sci-Fi,2008-09-16,8.6,516470,505.2
+947,Movie 947,"Thriller, Comedy",1987-04-15,9.4,127630,773.7
+948,Movie 948,"Thriller, Sci-Fi",2012-03-03,6.9,1840672,1113.9
+949,Movie 949,"Romance, Comedy, Adventure",2013-07-26,6.8,1898613,1269.6
+950,Movie 950,"Animation, Thriller",1981-08-05,8.7,2269917,2833.7
+951,Movie 951,Thriller,2000-07-25,6.6,357816,1210.1
+952,Movie 952,Comedy,2016-01-21,9.4,2280108,2919.4
+953,Movie 953,"Adventure, Sci-Fi",2000-06-01,8.9,2313718,1850.7
+954,Movie 954,Adventure,2008-11-07,9.1,1954485,2107.5
+955,Movie 955,"Adventure, Romance, Comedy",1985-01-18,7.2,628505,1585.4
+956,Movie 956,"Sci-Fi, Romance, Action",2012-09-10,7.8,771203,119.1
+957,Movie 957,"Sci-Fi, Romance, Adventure",1999-12-14,9.5,563226,2209.4
+958,Movie 958,"Sci-Fi, Thriller",1987-01-25,8.3,623238,1373.8
+959,Movie 959,"Action, Animation, Comedy",1995-12-19,8.0,2336774,2541.3
+960,Movie 960,Thriller,1999-05-22,8.7,687082,2157.3
+961,Movie 961,"Romance, Drama, Comedy",2013-10-07,8.9,1615265,1390.2
+962,Movie 962,Adventure,2006-02-03,6.2,645525,1454.9
+963,Movie 963,"Drama, Thriller",2023-09-13,8.1,2276613,2347.5
+964,Movie 964,"Animation, Adventure",2008-12-16,8.6,1848699,2480.2
+965,Movie 965,Family,1988-08-23,7.6,2252455,2596.7
+966,Movie 966,Romance,2009-08-02,8.6,2444727,1139.5
+967,Movie 967,Adventure,1987-02-12,8.0,268955,1592.2
+968,Movie 968,Thriller,1999-06-10,7.0,217347,2384.1
+969,Movie 969,Adventure,1983-05-10,6.8,2150149,56.2
+970,Movie 970,"Thriller, Drama, Adventure",1982-07-16,8.0,2472986,1384.5
+971,Movie 971,"Adventure, Animation",2018-03-25,6.5,2033306,2297.0
+972,Movie 972,"Animation, Comedy, Adventure",2000-02-26,8.2,1818105,1192.3
+973,Movie 973,"Thriller, Action",2022-08-24,7.0,471321,2604.6
+974,Movie 974,"Action, Sci-Fi, Animation",2021-02-21,8.0,907096,2867.7
+975,Movie 975,"Action, Romance, Adventure",2010-09-01,6.4,2330780,580.2
+976,Movie 976,Sci-Fi,1993-04-27,8.5,1963233,299.7
+977,Movie 977,"Thriller, Adventure, Sci-Fi",1982-08-28,9.3,1525881,1339.2
+978,Movie 978,"Action, Thriller",2004-05-03,6.4,516635,1648.2
+979,Movie 979,"Comedy, Family",1996-02-05,7.1,1808241,2051.9
+980,Movie 980,Thriller,1991-01-23,6.2,1735525,341.3
+981,Movie 981,Adventure,2000-05-13,9.3,607369,203.0
+982,Movie 982,Romance,2011-09-25,7.8,582686,844.4
+983,Movie 983,"Animation, Adventure",1984-08-01,7.4,1080378,2745.5
+984,Movie 984,Sci-Fi,2015-10-22,6.4,2426611,1972.1
+985,Movie 985,Sci-Fi,2016-07-15,6.3,2198965,650.2
+986,Movie 986,Thriller,2014-03-26,6.9,1877346,2886.0
+987,Movie 987,"Animation, Action, Family",2009-10-10,8.3,802049,51.6
+988,Movie 988,"Sci-Fi, Family",2023-07-12,8.9,992355,1776.2
+989,Movie 989,"Sci-Fi, Action, Drama",2014-10-03,7.1,1758028,2110.4
+990,Movie 990,Family,1997-07-07,8.1,1435063,2657.6
+991,Movie 991,"Sci-Fi, Animation",1997-04-22,9.4,1532899,671.3
+992,Movie 992,"Thriller, Action, Family",1988-11-01,8.1,117948,2709.3
+993,Movie 993,"Comedy, Adventure, Sci-Fi",2011-07-18,6.3,425155,1639.0
+994,Movie 994,"Animation, Drama, Comedy",2004-10-12,7.4,135363,418.1
+995,Movie 995,"Romance, Animation",1980-04-24,6.1,1279163,2057.6
+996,Movie 996,"Thriller, Romance, Action",2019-11-10,8.8,1027560,741.1
+997,Movie 997,"Thriller, Action",1997-08-23,8.5,976971,71.0
+998,Movie 998,"Adventure, Drama, Family",1997-10-17,7.7,2414354,621.6
+999,Movie 999,"Comedy, Drama, Sci-Fi",1988-12-03,6.4,2490347,2573.7
+1000,Movie 1000,"Sci-Fi, Romance, Adventure",2023-01-23,8.4,1160827,2058.0
+1001,Movie 1001,"Action, Adventure",2021-11-21,6.2,1454757,1326.0
+1002,Movie 1002,"Sci-Fi, Drama",2023-09-15,7.7,2269532,2289.1
+1003,Movie 1003,"Romance, Action, Comedy",2006-09-15,7.1,1743575,624.1
+1004,Movie 1004,Action,1994-12-14,9.4,1148509,630.8
+1005,Movie 1005,"Sci-Fi, Drama",2020-11-04,6.1,1911725,2433.8
+1006,Movie 1006,"Thriller, Sci-Fi, Drama",1986-08-08,9.4,328307,2473.8
+1007,Movie 1007,"Romance, Drama, Adventure",2018-10-15,8.7,1972572,1757.9
+1008,Movie 1008,Action,1982-07-11,9.1,372748,2358.8
+1009,Movie 1009,Animation,1983-05-20,8.2,375944,350.4
+1010,Movie 1010,Family,1983-05-28,7.3,501941,1871.0
+1011,Movie 1011,"Romance, Action",2009-07-15,8.8,524790,1051.9
+1012,Movie 1012,"Action, Animation, Sci-Fi",2001-10-07,6.4,151542,1805.8
+1013,Movie 1013,Romance,2016-03-21,7.8,1590618,1292.0
+1014,Movie 1014,"Animation, Comedy, Drama",1988-01-02,6.4,1928079,1563.7
+1015,Movie 1015,"Thriller, Sci-Fi, Animation",2014-03-05,7.6,1538228,908.6
+1016,Movie 1016,Family,2017-11-22,6.5,1095674,1546.0
+1017,Movie 1017,"Action, Adventure, Comedy",1992-04-21,9.2,386906,1057.6
+1018,Movie 1018,"Animation, Family, Sci-Fi",2001-10-19,9.4,1356745,1285.2
+1019,Movie 1019,Drama,2009-01-16,6.8,115506,1934.4
+1020,Movie 1020,"Romance, Animation, Sci-Fi",1993-04-16,8.6,1490475,2431.5
+1021,Movie 1021,"Romance, Adventure",1991-01-12,6.0,1601085,138.6
+1022,Movie 1022,Comedy,1998-08-07,8.2,1609568,179.5
+1023,Movie 1023,Romance,1992-05-06,6.8,1198902,2170.6
+1024,Movie 1024,"Family, Romance",1991-04-01,6.6,1198020,2736.4
+1025,Movie 1025,Comedy,2004-11-26,9.1,1519282,2811.5
+1026,Movie 1026,"Animation, Romance",2003-06-22,6.6,2310090,2932.5
+1027,Movie 1027,"Adventure, Drama, Action",1989-03-26,6.7,2333696,1165.7
+1028,Movie 1028,"Thriller, Adventure",2020-04-02,8.7,893151,2570.6
+1029,Movie 1029,"Comedy, Thriller",1995-01-21,8.8,630405,2561.9
+1030,Movie 1030,"Animation, Romance, Thriller",1985-08-26,8.3,372097,543.9
+1031,Movie 1031,"Family, Thriller",2011-09-15,6.6,1668161,1600.2
+1032,Movie 1032,"Animation, Family",1997-10-13,8.2,253530,661.2
+1033,Movie 1033,Animation,1995-07-07,7.1,1681600,1735.5
+1034,Movie 1034,"Sci-Fi, Drama",1988-02-10,7.6,1574612,729.0
+1035,Movie 1035,Animation,2012-10-11,7.5,2061050,1325.9
+1036,Movie 1036,"Animation, Thriller",1997-07-01,6.6,1080588,833.6
+1037,Movie 1037,Thriller,1985-05-27,7.8,2392824,1948.8
+1038,Movie 1038,"Romance, Drama",1987-02-12,6.1,940146,1034.6
+1039,Movie 1039,"Thriller, Sci-Fi, Comedy",2023-05-07,8.5,678248,2995.3
+1040,Movie 1040,"Family, Sci-Fi, Action",1999-05-27,7.2,1793706,2840.2
+1041,Movie 1041,"Action, Animation, Thriller",2012-03-28,7.4,1051797,2183.8
+1042,Movie 1042,Animation,1994-09-19,8.8,2066031,2181.4
+1043,Movie 1043,"Thriller, Drama",2000-04-14,8.7,1851909,668.3
+1044,Movie 1044,"Family, Action",2003-03-19,9.1,1381661,2832.9
+1045,Movie 1045,Animation,2022-06-11,6.8,1885596,2073.0
+1046,Movie 1046,"Family, Sci-Fi",2000-10-01,8.0,235094,2770.3
+1047,Movie 1047,Thriller,2016-11-26,8.1,1739494,2941.5
+1048,Movie 1048,Adventure,1984-09-13,6.7,555662,1020.1
+1049,Movie 1049,"Sci-Fi, Drama",1990-02-22,7.9,234465,2488.1
+1050,Movie 1050,"Animation, Action, Drama",1992-02-13,7.0,1077438,908.8
+1051,Movie 1051,"Drama, Animation, Action",2003-09-01,6.6,1823276,1203.8
+1052,Movie 1052,Comedy,2014-07-16,8.6,1731554,2867.5
+1053,Movie 1053,Comedy,1993-05-14,8.9,2091371,518.4
+1054,Movie 1054,"Sci-Fi, Romance, Family",2023-08-09,6.7,698493,1364.9
+1055,Movie 1055,"Romance, Thriller",2016-08-15,7.6,263933,2225.0
+1056,Movie 1056,"Animation, Thriller",1999-07-20,8.9,834532,1274.4
+1057,Movie 1057,Adventure,2009-07-22,6.6,2484945,331.8
+1058,Movie 1058,"Action, Romance, Adventure",1990-05-21,7.9,379944,2109.2
+1059,Movie 1059,"Romance, Animation, Family",2015-02-12,6.3,541343,1538.0
+1060,Movie 1060,"Adventure, Animation",1990-05-07,7.8,2038470,128.8
+1061,Movie 1061,"Animation, Adventure, Comedy",2005-04-13,6.1,1151116,388.3
+1062,Movie 1062,Thriller,2022-12-15,7.7,386207,293.5
+1063,Movie 1063,"Romance, Animation, Drama",2010-05-27,6.6,175774,1840.6
+1064,Movie 1064,Sci-Fi,1987-09-24,7.4,425416,2030.6
+1065,Movie 1065,Sci-Fi,1989-08-12,6.6,244472,2683.4
+1066,Movie 1066,"Romance, Animation, Thriller",1983-11-26,7.8,531146,1202.3
+1067,Movie 1067,"Animation, Action",2018-01-02,8.7,946150,2790.0
+1068,Movie 1068,"Romance, Family",1985-01-14,6.1,161068,1044.5
+1069,Movie 1069,Drama,1994-02-26,8.9,804151,2185.8
+1070,Movie 1070,Adventure,2012-02-27,7.1,2457425,1899.0
+1071,Movie 1071,"Romance, Adventure, Family",1987-04-07,6.4,1456302,562.2
+1072,Movie 1072,"Thriller, Action",2004-04-15,6.8,1267935,1967.3
+1073,Movie 1073,"Action, Drama",1993-07-10,8.7,2195373,2950.2
+1074,Movie 1074,Family,2016-03-09,9.4,1460440,2945.2
+1075,Movie 1075,"Adventure, Comedy, Animation",1991-11-25,9.1,1433650,2935.2
+1076,Movie 1076,"Animation, Drama, Comedy",1981-10-19,7.6,2243398,1939.7
+1077,Movie 1077,Family,2017-12-01,6.8,620329,961.1
+1078,Movie 1078,"Adventure, Romance, Sci-Fi",1985-01-05,7.3,1344092,645.9
+1079,Movie 1079,"Romance, Action",1995-12-20,9.5,1961122,2230.8
+1080,Movie 1080,"Comedy, Sci-Fi",2000-11-26,8.7,2284699,2385.8
+1081,Movie 1081,"Sci-Fi, Action",1994-12-11,7.2,963260,1641.0
+1082,Movie 1082,"Romance, Family, Sci-Fi",2004-09-11,6.6,125344,240.6
+1083,Movie 1083,"Drama, Romance",1983-11-05,9.3,626641,320.7
+1084,Movie 1084,"Family, Romance, Drama",2012-02-14,8.5,1406370,534.3
+1085,Movie 1085,Romance,2007-03-20,6.9,1296856,1750.4
+1086,Movie 1086,"Romance, Sci-Fi, Adventure",2010-02-12,7.4,803661,1438.6
+1087,Movie 1087,"Family, Adventure",1989-08-01,8.7,1892634,2569.4
+1088,Movie 1088,"Family, Comedy",2015-12-06,6.9,2044694,952.2
+1089,Movie 1089,"Adventure, Animation",1984-06-05,8.5,920891,506.4
+1090,Movie 1090,Action,1980-09-24,8.5,2161306,1243.4
+1091,Movie 1091,"Adventure, Thriller",2004-08-10,8.2,398778,1255.9
+1092,Movie 1092,Drama,2004-10-06,6.7,1929966,2873.4
+1093,Movie 1093,"Thriller, Animation, Family",2003-12-02,8.3,1878554,2220.2
+1094,Movie 1094,Animation,1982-06-21,8.5,218514,2107.5
+1095,Movie 1095,"Comedy, Sci-Fi, Animation",2009-11-05,6.9,777075,86.4
+1096,Movie 1096,Adventure,2005-12-19,9.4,437005,1579.7
+1097,Movie 1097,Adventure,1990-07-09,8.4,2199864,2904.7
+1098,Movie 1098,"Adventure, Sci-Fi, Thriller",2006-12-28,6.3,1544488,2452.0
+1099,Movie 1099,"Romance, Adventure",1999-01-06,8.9,106621,335.8
+1100,Movie 1100,"Adventure, Family, Thriller",1998-12-14,6.6,1671401,599.9
+1101,Movie 1101,Romance,2011-03-17,9.3,1990208,1722.9
+1102,Movie 1102,Comedy,1992-01-24,6.6,904823,815.1
+1103,Movie 1103,"Animation, Drama",2020-03-03,7.0,1684308,417.8
+1104,Movie 1104,Thriller,1981-10-08,7.7,522824,78.0
+1105,Movie 1105,"Action, Family",1986-04-17,8.8,1675656,1828.8
+1106,Movie 1106,"Animation, Family",2001-10-14,7.2,1538971,2998.4
+1107,Movie 1107,Thriller,2022-07-13,8.1,1593294,2625.6
+1108,Movie 1108,Action,2009-12-13,8.5,682433,125.8
+1109,Movie 1109,Family,1997-12-25,8.9,1645306,1383.2
+1110,Movie 1110,"Animation, Adventure, Thriller",1992-01-21,9.4,1451335,99.1
+1111,Movie 1111,"Action, Thriller",2023-08-08,8.1,1778414,2230.7
+1112,Movie 1112,Thriller,2007-08-22,9.0,521341,2216.1
+1113,Movie 1113,"Romance, Comedy",2013-10-26,9.0,2216599,143.6
+1114,Movie 1114,"Drama, Sci-Fi",2023-09-28,7.6,1971862,2867.4
+1115,Movie 1115,"Family, Romance",1995-04-06,8.6,475104,361.1
+1116,Movie 1116,"Action, Comedy, Animation",2004-05-08,8.5,2097756,2856.9
+1117,Movie 1117,"Drama, Comedy, Sci-Fi",2020-12-16,6.3,1495869,2622.2
+1118,Movie 1118,"Drama, Thriller, Romance",2004-11-21,8.7,1932752,2434.9
+1119,Movie 1119,Sci-Fi,1987-05-03,6.4,1527060,2234.7
+1120,Movie 1120,Drama,2016-06-05,9.0,1694653,1751.9
+1121,Movie 1121,Sci-Fi,1983-10-18,6.7,1728000,2940.6
+1122,Movie 1122,"Thriller, Comedy",2013-11-20,8.1,547053,1216.2
+1123,Movie 1123,"Animation, Thriller, Drama",1998-04-16,8.4,718346,1824.3
+1124,Movie 1124,Action,2018-06-10,7.8,617845,856.7
+1125,Movie 1125,"Animation, Romance, Family",1998-12-13,6.2,1497309,500.5
+1126,Movie 1126,"Romance, Family, Thriller",1983-03-28,7.7,1743361,932.4
+1127,Movie 1127,"Comedy, Action, Sci-Fi",2005-06-14,8.4,1560906,2285.3
+1128,Movie 1128,"Drama, Sci-Fi",1998-12-07,8.5,2398520,1211.6
+1129,Movie 1129,Thriller,2017-01-28,9.3,1375378,1399.7
+1130,Movie 1130,Comedy,2008-12-16,7.0,707431,668.8
+1131,Movie 1131,"Romance, Action, Comedy",2016-02-22,8.7,719102,1160.8
+1132,Movie 1132,"Comedy, Action",1986-06-16,6.6,320084,396.2
+1133,Movie 1133,"Thriller, Adventure, Drama",2020-12-13,6.9,598293,760.5
+1134,Movie 1134,"Sci-Fi, Comedy",2021-12-13,8.7,475856,2344.3
+1135,Movie 1135,"Adventure, Sci-Fi, Thriller",2021-08-12,6.0,589171,293.8
+1136,Movie 1136,"Family, Romance",1981-10-19,9.5,2111161,857.5
+1137,Movie 1137,"Drama, Comedy, Romance",2010-11-23,7.5,2496722,419.4
+1138,Movie 1138,"Drama, Comedy",2005-12-01,7.4,2349895,2361.2
+1139,Movie 1139,"Animation, Drama, Sci-Fi",2017-09-23,8.9,620468,2272.8
+1140,Movie 1140,Drama,1991-10-23,6.6,2426671,1369.3
+1141,Movie 1141,"Drama, Action",1988-10-07,8.3,468347,1709.4
+1142,Movie 1142,Drama,1987-09-10,7.3,2383492,556.2
+1143,Movie 1143,"Action, Romance, Comedy",1982-09-26,7.0,2340187,1362.5
+1144,Movie 1144,"Animation, Thriller, Sci-Fi",2002-10-18,7.8,515274,2004.7
+1145,Movie 1145,Romance,1982-04-05,7.0,1002668,2874.4
+1146,Movie 1146,"Family, Romance, Sci-Fi",2002-05-05,8.6,1870059,269.4
+1147,Movie 1147,"Sci-Fi, Adventure",2021-03-13,7.6,1166105,2045.8
+1148,Movie 1148,"Comedy, Romance, Action",2020-12-09,9.5,907937,2157.6
+1149,Movie 1149,"Family, Comedy, Romance",1989-06-26,7.5,208673,2893.9
+1150,Movie 1150,Drama,1997-02-18,6.4,2400025,1250.0
+1151,Movie 1151,"Drama, Thriller",2001-05-05,9.0,1046929,857.3
+1152,Movie 1152,Adventure,1994-07-04,8.7,618011,568.4
+1153,Movie 1153,"Sci-Fi, Animation, Action",2013-06-23,8.0,1282779,1677.0
+1154,Movie 1154,"Drama, Action, Family",2000-07-06,7.2,2330036,1677.4
+1155,Movie 1155,"Animation, Comedy",1996-01-22,7.8,752177,1989.8
+1156,Movie 1156,Adventure,2016-12-09,6.2,1652524,2137.1
+1157,Movie 1157,Adventure,2009-03-15,9.5,2065726,1531.6
+1158,Movie 1158,"Adventure, Romance",1999-11-28,6.3,1382037,1249.2
+1159,Movie 1159,"Drama, Family",1984-12-08,9.3,792534,1747.2
+1160,Movie 1160,Sci-Fi,2015-08-26,9.1,1878316,2047.2
+1161,Movie 1161,"Comedy, Animation, Romance",2012-11-22,9.1,622994,1246.1
+1162,Movie 1162,"Romance, Action, Thriller",2007-12-18,8.6,1124359,2983.0
+1163,Movie 1163,"Family, Action, Sci-Fi",2008-03-22,9.3,2295786,2716.2
+1164,Movie 1164,Drama,2003-03-17,7.2,313517,1297.0
+1165,Movie 1165,"Comedy, Thriller",1987-06-22,6.9,2361231,2559.8
+1166,Movie 1166,Sci-Fi,1999-08-10,6.9,109371,2227.2
+1167,Movie 1167,"Adventure, Romance, Comedy",2021-09-27,9.1,2042201,2682.9
+1168,Movie 1168,"Action, Thriller",1980-10-15,7.1,1584333,366.1
+1169,Movie 1169,"Comedy, Adventure",2002-01-04,7.5,928561,300.0
+1170,Movie 1170,"Comedy, Adventure, Action",2011-01-05,8.7,1149141,717.0
+1171,Movie 1171,"Thriller, Sci-Fi",2003-07-06,7.9,1230288,370.7
+1172,Movie 1172,"Animation, Comedy",1988-06-24,7.5,1606748,2656.5
+1173,Movie 1173,"Romance, Drama, Animation",1998-01-05,7.4,1489210,2707.9
+1174,Movie 1174,Romance,2010-11-09,6.4,2151299,1672.9
+1175,Movie 1175,"Comedy, Thriller, Adventure",2005-09-24,9.2,1730948,437.7
+1176,Movie 1176,Action,1988-03-12,7.8,1091973,203.5
+1177,Movie 1177,"Adventure, Action",2007-08-10,7.0,446511,2294.7
+1178,Movie 1178,Comedy,2012-03-08,7.0,582428,2599.3
+1179,Movie 1179,"Romance, Adventure, Drama",2010-12-26,8.8,2206941,1852.7
+1180,Movie 1180,Comedy,1994-02-05,7.4,1248658,2971.7
+1181,Movie 1181,Adventure,1981-10-07,6.3,313722,1172.0
+1182,Movie 1182,"Sci-Fi, Romance, Drama",2001-07-16,6.2,1891273,1949.4
+1183,Movie 1183,"Drama, Sci-Fi",2003-05-12,8.5,1135861,993.5
+1184,Movie 1184,Comedy,1982-01-02,8.3,1449054,675.3
+1185,Movie 1185,"Sci-Fi, Drama",2007-03-09,9.3,1624970,1036.1
+1186,Movie 1186,Drama,2022-01-22,7.9,646551,1027.1
+1187,Movie 1187,"Thriller, Family, Drama",2021-05-07,8.0,465874,2667.2
+1188,Movie 1188,Drama,1982-10-21,8.9,909196,2128.7
+1189,Movie 1189,Drama,2014-10-11,7.1,2088932,2969.5
+1190,Movie 1190,Family,1989-01-05,6.7,2408946,2149.2
+1191,Movie 1191,"Thriller, Family, Romance",2020-12-04,9.2,383990,1474.3
+1192,Movie 1192,"Family, Action, Drama",2018-05-23,9.4,1314906,184.1
+1193,Movie 1193,"Action, Romance, Thriller",2005-08-22,7.9,2253723,2916.0
+1194,Movie 1194,Animation,2012-07-18,8.7,1781282,1841.3
+1195,Movie 1195,Comedy,1980-03-19,6.8,137167,2643.5
+1196,Movie 1196,"Animation, Sci-Fi, Comedy",1994-05-23,6.9,599555,554.8
+1197,Movie 1197,Family,1995-05-02,8.2,1264995,2785.4
+1198,Movie 1198,"Action, Romance",1993-09-04,6.0,1557360,1916.4
+1199,Movie 1199,"Thriller, Drama",2015-05-24,6.5,1336880,1007.7
+1200,Movie 1200,Action,2002-04-24,9.4,841281,805.2
+1201,Movie 1201,Family,2022-10-04,8.5,1702144,2839.7
+1202,Movie 1202,"Family, Romance",2008-04-11,6.9,1758693,509.1
+1203,Movie 1203,Adventure,2003-03-16,6.3,861322,1405.2
+1204,Movie 1204,Romance,2016-08-24,6.6,1282979,112.1
+1205,Movie 1205,Comedy,2005-11-20,6.7,701976,262.5
+1206,Movie 1206,Animation,2021-07-04,8.5,675841,2194.0
+1207,Movie 1207,Drama,2004-07-01,6.4,156841,2302.2
+1208,Movie 1208,"Action, Comedy, Drama",1985-05-05,9.3,156610,2387.6
+1209,Movie 1209,Drama,2014-12-27,7.2,456369,646.8
+1210,Movie 1210,"Animation, Comedy",1999-06-16,6.5,334358,1653.4
+1211,Movie 1211,"Family, Drama",1981-01-04,7.9,530193,1559.1
+1212,Movie 1212,"Comedy, Action",1994-01-08,7.5,718141,1092.3
+1213,Movie 1213,"Romance, Adventure",2023-12-27,9.2,2162845,550.2
+1214,Movie 1214,Romance,1986-05-12,6.3,1499743,399.1
+1215,Movie 1215,Action,2018-03-06,7.5,1504437,1818.9
+1216,Movie 1216,"Adventure, Comedy, Thriller",2023-05-20,8.9,1561235,2632.4
+1217,Movie 1217,"Animation, Thriller",1996-12-26,6.3,109138,2592.1
+1218,Movie 1218,Comedy,2000-03-13,7.6,2106689,2453.2
+1219,Movie 1219,Adventure,1997-03-03,7.1,634923,586.5
+1220,Movie 1220,"Thriller, Family",2011-07-16,8.4,1836208,1825.1
+1221,Movie 1221,"Thriller, Comedy, Adventure",2021-04-13,7.5,2184998,1639.3
+1222,Movie 1222,"Family, Romance",2004-02-19,8.5,2310171,1754.7
+1223,Movie 1223,"Romance, Drama, Animation",2003-01-07,9.5,171951,1119.1
+1224,Movie 1224,"Comedy, Drama",1983-06-12,9.0,684473,919.4
+1225,Movie 1225,Family,2006-04-07,8.9,334317,2253.6
+1226,Movie 1226,Comedy,2004-12-01,8.4,1881357,1146.5
+1227,Movie 1227,"Drama, Family, Romance",2018-03-01,6.5,692560,283.0
+1228,Movie 1228,Action,2016-07-05,8.7,2070336,2243.5
+1229,Movie 1229,"Family, Sci-Fi, Romance",2006-12-11,7.6,155404,896.0
+1230,Movie 1230,Action,2021-01-20,8.6,2210974,523.0
+1231,Movie 1231,"Adventure, Animation",2015-12-27,6.9,2499415,1530.5
+1232,Movie 1232,"Romance, Adventure, Drama",1997-02-17,7.3,624847,2242.2
+1233,Movie 1233,"Action, Romance",2005-03-27,8.6,2445850,1835.0
+1234,Movie 1234,Animation,2010-06-21,8.2,1695807,536.2
+1235,Movie 1235,"Adventure, Romance",1997-02-04,6.3,1507070,132.7
+1236,Movie 1236,"Comedy, Drama",1984-04-20,6.0,1396543,603.8
+1237,Movie 1237,Action,1995-05-03,9.4,2468929,182.4
+1238,Movie 1238,"Action, Family",2000-02-10,6.0,1595894,2267.5
+1239,Movie 1239,"Family, Romance",2000-07-24,7.2,643233,2122.8
+1240,Movie 1240,Thriller,2006-12-17,6.4,729928,119.9
+1241,Movie 1241,"Animation, Action",1998-03-05,8.4,430313,2661.4
+1242,Movie 1242,Romance,1993-11-21,6.5,775480,2980.6
+1243,Movie 1243,"Family, Thriller, Romance",1988-06-10,7.3,1907331,168.0
+1244,Movie 1244,"Adventure, Romance, Drama",2019-10-03,9.4,2477754,1902.0
+1245,Movie 1245,"Drama, Action",1989-05-18,9.0,465607,1521.8
+1246,Movie 1246,"Thriller, Comedy",1998-03-03,7.0,1623909,1092.4
+1247,Movie 1247,Comedy,2009-05-16,9.4,1954072,1968.4
+1248,Movie 1248,Drama,2016-08-02,7.3,1302192,1232.8
+1249,Movie 1249,"Comedy, Animation, Family",2012-10-11,7.3,1833062,1542.5
+1250,Movie 1250,"Action, Family",1995-12-27,8.0,748280,2566.5
+1251,Movie 1251,"Adventure, Comedy",2016-07-28,6.3,1728325,2628.8
+1252,Movie 1252,"Drama, Thriller, Romance",2009-11-18,9.2,2049734,371.9
+1253,Movie 1253,Drama,2005-07-07,7.4,370413,986.0
+1254,Movie 1254,"Animation, Romance, Thriller",2010-02-09,7.6,2386236,509.4
+1255,Movie 1255,"Comedy, Romance",2000-10-02,9.5,1695030,234.1
+1256,Movie 1256,"Adventure, Animation",1993-01-07,9.0,1873856,846.1
+1257,Movie 1257,"Comedy, Drama, Animation",1984-05-13,6.3,1993396,2620.3
+1258,Movie 1258,"Romance, Sci-Fi, Drama",1983-02-14,7.2,1345309,535.4
+1259,Movie 1259,"Adventure, Animation",2010-09-23,8.7,1932004,1096.3
+1260,Movie 1260,"Adventure, Action, Sci-Fi",2018-04-03,8.5,706568,1005.0
+1261,Movie 1261,"Thriller, Action, Drama",2009-03-16,9.0,576501,2386.4
+1262,Movie 1262,"Adventure, Sci-Fi, Animation",1980-08-27,9.0,1984620,1934.8
+1263,Movie 1263,"Drama, Action, Family",1992-07-23,7.9,796678,1822.8
+1264,Movie 1264,Thriller,1993-04-22,8.0,160276,1142.3
+1265,Movie 1265,"Action, Sci-Fi",1999-09-27,9.0,2193505,1964.3
+1266,Movie 1266,"Adventure, Family",2002-06-27,7.9,2294333,2923.5
+1267,Movie 1267,"Drama, Comedy",2009-07-12,6.6,782233,1651.2
+1268,Movie 1268,"Sci-Fi, Adventure",2020-05-23,8.2,516180,2986.3
+1269,Movie 1269,Drama,2021-01-20,9.3,534845,1514.4
+1270,Movie 1270,"Family, Drama, Thriller",2008-09-19,8.8,1315947,2562.5
+1271,Movie 1271,Romance,2009-09-13,6.4,2069537,2854.1
+1272,Movie 1272,"Animation, Adventure",2021-12-26,8.6,131898,2821.9
+1273,Movie 1273,Family,1998-05-22,6.9,1839447,2036.2
+1274,Movie 1274,Adventure,1982-01-01,6.5,1670371,2530.3
+1275,Movie 1275,"Thriller, Family, Drama",2016-07-08,7.9,1741492,618.3
+1276,Movie 1276,"Adventure, Action, Family",2016-07-05,9.3,1737505,2933.2
+1277,Movie 1277,Adventure,2000-09-06,7.5,517660,2144.6
+1278,Movie 1278,Family,1987-11-19,8.7,1191484,2520.1
+1279,Movie 1279,Thriller,1993-02-03,6.1,148394,1905.2
+1280,Movie 1280,"Comedy, Action, Sci-Fi",2014-02-19,7.3,647558,2951.1
+1281,Movie 1281,"Thriller, Comedy, Drama",2021-04-10,6.7,1128671,2192.6
+1282,Movie 1282,"Sci-Fi, Action",1997-02-05,8.2,533771,377.2
+1283,Movie 1283,"Drama, Family, Animation",1998-05-06,6.3,2173013,2541.6
+1284,Movie 1284,Adventure,1986-08-26,6.1,408599,1485.2
+1285,Movie 1285,"Drama, Romance, Thriller",2006-07-11,8.2,1991121,2435.2
+1286,Movie 1286,Sci-Fi,1980-03-22,8.0,231912,395.8
+1287,Movie 1287,"Thriller, Animation",2019-10-18,6.0,2288372,2238.0
+1288,Movie 1288,Romance,2018-01-18,6.1,2246412,2294.8
+1289,Movie 1289,Thriller,1987-04-01,7.1,1021744,296.2
+1290,Movie 1290,"Comedy, Sci-Fi, Family",2010-04-03,7.2,2413146,1973.2
+1291,Movie 1291,"Animation, Adventure",2012-07-07,6.9,929953,2076.8
+1292,Movie 1292,"Sci-Fi, Adventure, Action",2017-10-10,6.6,963321,2863.6
+1293,Movie 1293,"Adventure, Animation",2007-10-24,7.0,1436928,1887.6
+1294,Movie 1294,"Adventure, Family, Drama",2016-06-12,9.1,369552,1375.7
+1295,Movie 1295,Family,1996-10-14,7.0,2325070,1089.1
+1296,Movie 1296,Drama,1991-06-14,8.8,1600489,773.7
+1297,Movie 1297,Thriller,2003-03-25,7.1,140403,989.8
+1298,Movie 1298,Thriller,1993-08-19,8.8,1075799,1706.8
+1299,Movie 1299,"Sci-Fi, Romance",2013-04-04,8.0,413835,1743.1
+1300,Movie 1300,"Adventure, Family, Comedy",2000-04-07,6.2,2171710,1521.0
+1301,Movie 1301,"Adventure, Drama",1987-08-06,8.1,1705820,747.4
+1302,Movie 1302,Sci-Fi,1981-11-26,9.0,119490,2739.3
+1303,Movie 1303,"Comedy, Adventure",1982-09-17,6.1,168250,254.9
+1304,Movie 1304,Adventure,1999-05-11,8.6,1779165,285.3
+1305,Movie 1305,"Animation, Action",2005-05-23,9.4,2169203,2553.6
+1306,Movie 1306,Thriller,2019-02-01,6.8,143604,459.3
+1307,Movie 1307,"Adventure, Romance",1990-02-07,8.5,1647192,2457.6
+1308,Movie 1308,"Action, Family, Comedy",1982-02-02,9.3,414749,828.0
+1309,Movie 1309,"Adventure, Sci-Fi, Thriller",1990-03-19,7.6,629693,992.0
+1310,Movie 1310,Adventure,2020-08-22,6.4,2312868,759.5
+1311,Movie 1311,"Animation, Sci-Fi",2000-12-16,6.8,1206507,2310.3
+1312,Movie 1312,"Drama, Thriller, Sci-Fi",1995-11-21,8.6,963570,2100.1
+1313,Movie 1313,Animation,1983-04-01,8.3,2063565,2464.6
+1314,Movie 1314,Animation,1986-06-07,8.8,2313102,1566.1
+1315,Movie 1315,"Sci-Fi, Animation",2021-03-28,7.8,645513,695.4
+1316,Movie 1316,"Adventure, Animation",2019-09-07,8.7,888334,252.5
+1317,Movie 1317,"Comedy, Sci-Fi",2016-11-04,6.5,549517,2247.8
+1318,Movie 1318,Action,2009-03-09,6.1,2326694,1385.3
+1319,Movie 1319,"Drama, Family",2002-07-07,6.5,2206339,1321.0
+1320,Movie 1320,"Action, Animation",1997-06-04,6.2,1704415,2209.4
+1321,Movie 1321,"Romance, Sci-Fi",1992-07-06,8.1,2321147,1842.0
+1322,Movie 1322,"Adventure, Drama, Thriller",1983-11-08,9.4,1020984,389.8
+1323,Movie 1323,Sci-Fi,1995-02-18,6.4,1049863,2653.7
+1324,Movie 1324,"Adventure, Family, Romance",1986-04-24,8.9,1225193,1510.8
+1325,Movie 1325,Romance,2002-11-10,8.5,1307869,2215.0
+1326,Movie 1326,Comedy,2012-12-20,7.7,1380622,2565.1
+1327,Movie 1327,"Romance, Comedy, Animation",2023-02-06,6.7,2009315,468.4
+1328,Movie 1328,Animation,2007-06-01,6.6,1206592,2649.7
+1329,Movie 1329,Action,2018-06-16,8.0,2148109,2626.0
+1330,Movie 1330,"Drama, Action",1981-10-22,9.5,1057507,1599.5
+1331,Movie 1331,Comedy,1986-02-10,8.8,1507932,1385.2
+1332,Movie 1332,"Thriller, Sci-Fi, Family",2011-05-12,7.6,1579022,938.3
+1333,Movie 1333,"Family, Animation",1987-05-22,7.8,186936,486.3
+1334,Movie 1334,"Romance, Comedy",2002-08-01,6.9,1906572,1110.3
+1335,Movie 1335,"Drama, Romance, Animation",2020-02-09,9.1,2385545,2702.7
+1336,Movie 1336,"Family, Comedy",1996-11-12,9.1,1740082,1788.0
+1337,Movie 1337,"Sci-Fi, Romance",1982-10-17,8.5,615736,1328.7
+1338,Movie 1338,"Thriller, Sci-Fi",1987-01-16,9.2,717112,1425.6
+1339,Movie 1339,Family,1998-10-18,8.3,1373581,1486.1
+1340,Movie 1340,Sci-Fi,1980-08-02,6.8,617727,206.9
+1341,Movie 1341,"Action, Adventure",2002-11-27,6.0,1154588,456.3
+1342,Movie 1342,"Family, Comedy",1985-12-09,6.5,925134,1324.5
+1343,Movie 1343,Sci-Fi,1994-01-16,9.3,1143242,2444.5
+1344,Movie 1344,"Adventure, Family, Romance",1986-05-10,8.1,826881,1713.5
+1345,Movie 1345,"Thriller, Comedy, Family",1992-05-05,7.5,936860,938.1
+1346,Movie 1346,Sci-Fi,2016-11-15,7.9,1676915,2358.1
+1347,Movie 1347,"Drama, Comedy",2013-08-23,7.1,1599711,1431.7
+1348,Movie 1348,"Animation, Adventure",2006-08-01,9.2,210822,2874.6
+1349,Movie 1349,"Drama, Comedy",2019-05-26,6.8,2248351,1150.7
+1350,Movie 1350,"Family, Sci-Fi, Action",2005-03-13,8.3,2041156,2432.1
+1351,Movie 1351,"Animation, Action, Family",1983-05-27,9.5,548995,1033.8
+1352,Movie 1352,Sci-Fi,2016-08-23,7.2,355285,408.3
+1353,Movie 1353,"Family, Action, Thriller",1993-09-05,8.0,2177458,452.4
+1354,Movie 1354,"Comedy, Sci-Fi, Thriller",1999-12-01,8.8,941796,388.4
+1355,Movie 1355,Comedy,2018-02-17,6.3,956869,355.6
+1356,Movie 1356,Family,2008-07-02,9.2,1357971,1243.4
+1357,Movie 1357,Romance,2014-05-27,8.1,1941844,2585.0
+1358,Movie 1358,"Drama, Adventure, Family",2020-01-06,6.5,1109493,553.8
+1359,Movie 1359,"Family, Romance, Animation",2010-05-10,8.3,2167641,1133.7
+1360,Movie 1360,"Adventure, Family",1986-08-14,8.8,721455,132.5
+1361,Movie 1361,"Drama, Adventure",1980-10-10,6.1,1964281,175.8
+1362,Movie 1362,"Comedy, Animation",2009-05-01,9.4,1600502,1526.9
+1363,Movie 1363,"Romance, Thriller, Animation",2013-07-17,6.2,735029,1088.0
+1364,Movie 1364,"Thriller, Animation, Family",1988-05-26,8.7,1370580,2774.3
+1365,Movie 1365,Animation,2004-08-20,8.3,2226429,2337.4
+1366,Movie 1366,"Sci-Fi, Comedy, Thriller",2000-10-19,7.2,1793550,249.3
+1367,Movie 1367,Comedy,1994-02-22,6.4,2098220,1004.8
+1368,Movie 1368,Romance,1986-03-24,9.1,1861843,2771.0
+1369,Movie 1369,Sci-Fi,1987-01-28,8.6,1951904,2301.9
+1370,Movie 1370,"Action, Comedy, Animation",1986-12-15,7.3,2433996,639.2
+1371,Movie 1371,"Animation, Family",2023-05-08,6.7,779852,1330.5
+1372,Movie 1372,"Romance, Drama, Sci-Fi",1981-11-22,6.3,239415,2439.5
+1373,Movie 1373,Thriller,2006-10-18,9.0,1529046,596.6
+1374,Movie 1374,"Family, Animation, Drama",1993-10-27,7.7,1576839,1101.6
+1375,Movie 1375,"Comedy, Drama, Romance",2007-11-13,9.1,2487198,280.5
+1376,Movie 1376,"Sci-Fi, Drama, Action",2011-04-02,8.1,1487978,116.5
+1377,Movie 1377,"Sci-Fi, Adventure",2002-02-28,9.1,1308248,270.6
+1378,Movie 1378,"Romance, Sci-Fi, Family",2019-01-18,8.4,565041,1769.2
+1379,Movie 1379,"Action, Family",2001-07-09,6.7,349107,460.9
+1380,Movie 1380,"Thriller, Action, Drama",2011-02-26,9.3,248319,1070.2
+1381,Movie 1381,Adventure,2018-12-20,9.3,2412845,1462.4
+1382,Movie 1382,Sci-Fi,1982-02-02,7.7,1044746,1968.5
+1383,Movie 1383,"Animation, Sci-Fi",1994-01-02,6.1,922814,1625.8
+1384,Movie 1384,"Action, Animation",1983-07-25,7.3,625283,1317.7
+1385,Movie 1385,"Family, Comedy",1987-08-04,9.1,1642281,1087.8
+1386,Movie 1386,"Adventure, Action",1995-04-03,8.1,1052635,1268.5
+1387,Movie 1387,"Action, Family, Adventure",1995-01-03,6.2,1939436,582.8
+1388,Movie 1388,Thriller,2002-10-21,9.1,1326467,432.7
+1389,Movie 1389,"Animation, Drama",2022-02-03,6.9,2380217,657.3
+1390,Movie 1390,"Thriller, Romance, Animation",1999-06-25,7.9,1124273,1604.2
+1391,Movie 1391,"Thriller, Drama",1983-06-14,8.5,2139302,875.4
+1392,Movie 1392,Comedy,2013-04-10,8.6,984031,412.1
+1393,Movie 1393,"Comedy, Action, Drama",2008-11-25,7.6,579151,112.8
+1394,Movie 1394,Sci-Fi,1997-10-13,7.1,454390,226.2
+1395,Movie 1395,"Adventure, Animation, Action",2004-07-15,6.2,962894,1169.0
+1396,Movie 1396,"Adventure, Action, Thriller",1999-01-18,8.7,209018,2734.7
+1397,Movie 1397,"Sci-Fi, Romance",1981-06-24,8.9,1920646,2603.9
+1398,Movie 1398,"Action, Drama, Sci-Fi",2004-12-22,7.0,2342951,1417.3
+1399,Movie 1399,"Family, Sci-Fi, Drama",2004-08-24,9.5,1099196,439.0
+1400,Movie 1400,Sci-Fi,2023-05-03,9.5,2376687,922.7
+1401,Movie 1401,"Adventure, Action, Sci-Fi",1997-06-09,8.3,151754,416.7
+1402,Movie 1402,"Thriller, Sci-Fi, Adventure",1991-08-15,6.1,137206,1426.0
+1403,Movie 1403,"Animation, Romance",2006-01-19,9.3,1259497,2696.3
+1404,Movie 1404,"Thriller, Drama, Romance",1991-05-25,8.8,1188593,2613.7
+1405,Movie 1405,Romance,2020-03-05,9.0,307952,736.4
+1406,Movie 1406,"Action, Comedy, Thriller",2012-08-19,7.1,2421160,2166.2
+1407,Movie 1407,Sci-Fi,1996-01-22,9.0,1581994,1644.3
+1408,Movie 1408,Romance,2002-02-03,7.8,574722,1557.6
+1409,Movie 1409,Romance,2000-10-12,8.9,1844703,260.6
+1410,Movie 1410,"Sci-Fi, Comedy",1981-06-20,8.8,1505032,2926.5
+1411,Movie 1411,"Thriller, Animation, Comedy",2019-01-06,7.3,1320008,2794.4
+1412,Movie 1412,"Action, Drama, Sci-Fi",1993-06-17,8.5,2231470,2361.2
+1413,Movie 1413,"Thriller, Romance, Animation",2017-01-22,8.5,1698405,2299.7
+1414,Movie 1414,"Drama, Family, Animation",2016-09-19,8.2,1853555,1640.0
+1415,Movie 1415,Family,1983-10-16,8.3,2282447,1351.0
+1416,Movie 1416,"Romance, Sci-Fi",1995-06-08,8.8,1618191,731.1
+1417,Movie 1417,"Drama, Romance",2008-12-14,7.3,1576330,1703.3
+1418,Movie 1418,Thriller,2021-08-20,6.8,1856785,727.8
+1419,Movie 1419,Family,1995-07-22,8.0,679401,1836.4
+1420,Movie 1420,"Thriller, Family",1987-02-14,7.5,722428,1749.2
+1421,Movie 1421,"Romance, Comedy, Family",1980-03-04,7.5,2426071,2148.6
+1422,Movie 1422,"Drama, Comedy",1982-07-01,8.4,406245,440.5
+1423,Movie 1423,"Adventure, Family, Comedy",1988-07-23,7.9,1330574,401.1
+1424,Movie 1424,"Drama, Action",1984-12-12,9.3,1814944,1911.0
+1425,Movie 1425,"Adventure, Sci-Fi, Family",2010-12-05,8.6,2236469,297.2
+1426,Movie 1426,Thriller,2023-11-15,7.3,1939567,571.3
+1427,Movie 1427,"Sci-Fi, Drama, Animation",1999-08-11,6.2,2271297,2697.0
+1428,Movie 1428,"Family, Adventure, Comedy",2000-07-11,8.7,700609,173.7
+1429,Movie 1429,"Romance, Adventure, Sci-Fi",1997-10-20,7.1,1556873,890.1
+1430,Movie 1430,Sci-Fi,1997-08-15,6.8,810182,901.0
+1431,Movie 1431,"Drama, Romance",2022-05-05,6.3,2415941,2524.4
+1432,Movie 1432,Action,2018-01-18,7.9,918445,69.7
+1433,Movie 1433,Thriller,1993-05-19,7.5,1965729,1586.6
+1434,Movie 1434,"Sci-Fi, Drama",1987-08-14,7.7,464333,2600.3
+1435,Movie 1435,"Drama, Thriller",1985-12-26,6.8,411847,1015.0
+1436,Movie 1436,"Thriller, Sci-Fi, Romance",2020-12-17,8.4,410749,2135.1
+1437,Movie 1437,"Action, Adventure",1986-12-26,7.8,898589,2532.2
+1438,Movie 1438,"Action, Family, Drama",1988-10-13,9.1,1023625,2036.4
+1439,Movie 1439,"Animation, Comedy",2011-03-24,7.7,652775,635.8
+1440,Movie 1440,Family,1993-01-14,6.2,2439319,1853.1
+1441,Movie 1441,"Comedy, Action, Romance",1996-10-13,8.2,1084469,1931.3
+1442,Movie 1442,"Family, Comedy",1999-04-10,8.3,2156139,2400.4
+1443,Movie 1443,"Thriller, Animation",1998-02-08,6.4,1304903,1287.8
+1444,Movie 1444,"Thriller, Romance",2022-07-04,6.6,1437588,1998.8
+1445,Movie 1445,"Adventure, Comedy",2010-08-20,7.4,1085074,135.4
+1446,Movie 1446,"Family, Romance",2006-01-18,8.7,1197251,2041.2
+1447,Movie 1447,"Adventure, Animation",2007-07-09,9.2,1225404,1482.2
+1448,Movie 1448,Thriller,2020-01-10,7.6,1028241,1738.9
+1449,Movie 1449,Family,1993-11-04,9.3,1482795,431.2
+1450,Movie 1450,"Action, Family, Adventure",2004-02-25,8.5,1579333,2312.2
+1451,Movie 1451,"Drama, Action, Sci-Fi",1993-06-18,6.7,758475,2522.5
+1452,Movie 1452,"Romance, Sci-Fi",1990-06-11,7.4,2419245,2213.3
+1453,Movie 1453,Action,1981-09-04,7.8,2133817,174.7
+1454,Movie 1454,"Sci-Fi, Action",1994-11-25,8.4,241675,853.8
+1455,Movie 1455,Adventure,2021-07-05,8.9,1232456,2592.9
+1456,Movie 1456,Drama,2012-12-23,8.7,1842230,109.5
+1457,Movie 1457,"Family, Comedy, Action",2017-07-07,8.9,1409418,2365.1
+1458,Movie 1458,"Family, Action",1999-05-15,6.7,1208428,2909.3
+1459,Movie 1459,"Animation, Adventure, Comedy",2007-02-08,9.4,2452988,871.7
+1460,Movie 1460,"Family, Romance",2004-01-16,8.5,1663375,2300.0
+1461,Movie 1461,"Drama, Animation, Family",2016-01-13,8.7,1975211,1141.0
+1462,Movie 1462,"Drama, Sci-Fi, Comedy",1989-11-03,6.3,809909,662.7
+1463,Movie 1463,"Romance, Drama",1989-07-20,8.9,2295322,2182.9
+1464,Movie 1464,"Romance, Action, Adventure",2011-05-14,7.1,1517123,2511.3
+1465,Movie 1465,Thriller,2016-10-14,9.0,1224681,2086.7
+1466,Movie 1466,"Animation, Family, Comedy",2021-04-11,7.6,2125833,1567.6
+1467,Movie 1467,"Drama, Family, Romance",1984-07-05,8.6,779867,1583.8
+1468,Movie 1468,Comedy,1992-08-28,9.4,263837,2662.2
+1469,Movie 1469,"Comedy, Animation",1988-12-28,7.9,1775228,77.3
+1470,Movie 1470,Adventure,1998-12-22,6.9,1452185,1864.5
+1471,Movie 1471,"Comedy, Family",1998-09-22,6.7,1657149,1582.2
+1472,Movie 1472,"Animation, Family",1993-06-24,8.5,667653,534.5
+1473,Movie 1473,"Animation, Action, Comedy",2006-03-05,7.6,123498,969.9
+1474,Movie 1474,Romance,1986-09-15,7.2,356304,1893.7
+1475,Movie 1475,"Comedy, Drama, Family",2020-09-08,7.2,159263,2787.2
+1476,Movie 1476,"Sci-Fi, Adventure",2017-12-10,7.3,1791430,2806.2
+1477,Movie 1477,"Family, Romance, Action",2017-03-04,8.6,1274344,576.1
+1478,Movie 1478,"Drama, Comedy, Adventure",2013-10-21,8.7,1484792,1748.2
+1479,Movie 1479,"Sci-Fi, Animation, Drama",1990-01-26,6.8,1007829,319.4
+1480,Movie 1480,"Comedy, Family, Drama",2010-01-11,6.3,318897,454.1
+1481,Movie 1481,"Adventure, Animation",2000-05-17,8.7,1109874,1702.4
+1482,Movie 1482,"Adventure, Animation",2002-05-27,7.8,2325856,280.7
+1483,Movie 1483,"Romance, Comedy, Thriller",1997-12-05,8.9,2450848,1352.9
+1484,Movie 1484,"Sci-Fi, Drama, Family",2007-11-12,6.6,1633803,2573.3
+1485,Movie 1485,"Thriller, Adventure, Drama",2019-09-07,7.3,850803,2802.9
+1486,Movie 1486,Romance,2008-06-17,6.7,1401872,1018.9
+1487,Movie 1487,"Sci-Fi, Action",2018-05-02,8.3,2107959,1225.0
+1488,Movie 1488,"Sci-Fi, Family, Thriller",1983-10-27,6.1,2074717,2991.8
+1489,Movie 1489,"Animation, Family, Drama",2010-12-28,8.3,2388359,2431.9
+1490,Movie 1490,Thriller,1981-10-23,6.5,842004,2619.2
+1491,Movie 1491,Drama,2006-02-02,7.6,361411,977.0
+1492,Movie 1492,"Sci-Fi, Romance, Thriller",2019-12-01,7.2,1427414,2698.3
+1493,Movie 1493,Thriller,2013-01-22,7.4,357880,241.6
+1494,Movie 1494,"Comedy, Sci-Fi, Action",1991-08-02,7.0,933338,2081.7
+1495,Movie 1495,"Comedy, Action",1999-05-18,7.2,1532155,1425.4
+1496,Movie 1496,"Drama, Animation, Action",1987-02-06,8.6,878709,986.6
+1497,Movie 1497,"Action, Comedy, Adventure",1980-04-21,7.3,440891,2637.7
+1498,Movie 1498,Sci-Fi,2023-11-28,6.7,656730,965.9
+1499,Movie 1499,"Sci-Fi, Comedy",1997-03-19,7.1,1047746,2514.1
+1500,Movie 1500,"Romance, Comedy",1998-05-23,7.5,487604,1495.2
+1501,Movie 1501,"Thriller, Family, Adventure",2021-09-15,8.9,815022,158.4
+1502,Movie 1502,"Adventure, Comedy, Sci-Fi",2016-04-23,7.5,1310849,662.0
+1503,Movie 1503,"Family, Sci-Fi, Action",2012-04-09,6.8,1194067,142.8
+1504,Movie 1504,Family,2022-11-06,7.7,2059775,1781.1
+1505,Movie 1505,"Adventure, Action",2000-12-04,8.2,133127,518.3
+1506,Movie 1506,"Thriller, Family",2021-02-06,9.2,1384613,530.1
+1507,Movie 1507,"Comedy, Action, Romance",2019-08-19,8.0,1924390,2206.3
+1508,Movie 1508,"Romance, Sci-Fi",2003-10-11,7.7,1782558,935.5
+1509,Movie 1509,Family,1986-07-14,8.7,1780867,1799.6
+1510,Movie 1510,Family,1990-05-20,9.4,2298173,635.5
+1511,Movie 1511,"Comedy, Family, Thriller",2001-01-03,7.1,693330,2414.4
+1512,Movie 1512,"Adventure, Comedy",2009-01-22,6.5,821707,938.8
+1513,Movie 1513,Comedy,1995-04-14,6.3,1126482,504.7
+1514,Movie 1514,"Thriller, Action, Romance",1990-06-04,7.6,1752754,2111.4
+1515,Movie 1515,"Adventure, Animation",1995-02-13,6.4,660049,1229.7
+1516,Movie 1516,"Sci-Fi, Adventure",2018-07-18,6.3,2148117,2026.1
+1517,Movie 1517,"Action, Romance, Sci-Fi",1991-04-12,7.3,2203258,2478.6
+1518,Movie 1518,"Adventure, Drama, Thriller",1994-03-16,6.7,985972,940.7
+1519,Movie 1519,Thriller,2004-11-06,7.5,1295226,967.7
+1520,Movie 1520,"Animation, Action, Comedy",2006-03-06,7.4,2269917,2511.0
+1521,Movie 1521,"Drama, Thriller",2023-12-04,8.3,1796485,2420.5
+1522,Movie 1522,Comedy,2000-03-19,7.8,2007116,84.2
+1523,Movie 1523,"Adventure, Family, Animation",1983-05-14,6.9,586364,1830.7
+1524,Movie 1524,"Family, Thriller",2010-12-11,9.0,1630341,379.4
+1525,Movie 1525,Adventure,2014-07-28,8.4,730769,70.5
+1526,Movie 1526,"Sci-Fi, Romance, Family",2019-12-28,7.6,303606,1421.1
+1527,Movie 1527,Drama,2011-08-12,6.2,1648941,794.4
+1528,Movie 1528,"Sci-Fi, Action",2014-05-06,7.0,1849277,101.7
+1529,Movie 1529,"Sci-Fi, Action",2018-02-12,8.6,2328301,2229.1
+1530,Movie 1530,Comedy,1985-09-04,6.4,706682,1917.1
+1531,Movie 1531,"Sci-Fi, Thriller",2009-12-20,6.9,2295964,1728.8
+1532,Movie 1532,Drama,2000-06-02,6.5,524139,1176.6
+1533,Movie 1533,"Drama, Thriller, Animation",1999-07-13,6.1,1177340,2178.7
+1534,Movie 1534,"Drama, Adventure, Action",1992-10-09,9.5,2256038,1640.5
+1535,Movie 1535,Action,2003-10-16,6.8,1932682,860.6
+1536,Movie 1536,"Comedy, Sci-Fi, Animation",2022-01-20,7.4,860261,2050.7
+1537,Movie 1537,"Action, Adventure",1993-01-26,7.5,644282,860.6
+1538,Movie 1538,"Thriller, Drama",1994-04-01,8.5,1027183,238.0
+1539,Movie 1539,"Animation, Adventure",2020-10-11,7.9,2094823,2793.1
+1540,Movie 1540,Thriller,2001-06-12,8.9,736605,1412.7
+1541,Movie 1541,"Animation, Romance, Sci-Fi",1990-11-13,6.9,235335,1999.1
+1542,Movie 1542,"Drama, Animation, Sci-Fi",2002-02-07,8.6,2321268,1139.1
+1543,Movie 1543,"Thriller, Animation",2023-08-01,6.5,799334,1891.6
+1544,Movie 1544,"Adventure, Family, Animation",1981-05-18,8.6,1084481,1157.1
+1545,Movie 1545,"Comedy, Adventure, Sci-Fi",1987-02-13,6.8,564027,1733.7
+1546,Movie 1546,Comedy,2005-09-14,7.2,1013320,1283.6
+1547,Movie 1547,"Sci-Fi, Thriller, Adventure",2003-11-04,8.3,1432845,1531.8
+1548,Movie 1548,"Adventure, Romance, Family",2005-08-25,7.6,1985154,513.1
+1549,Movie 1549,Adventure,1998-01-18,8.9,2046247,1985.8
+1550,Movie 1550,"Drama, Adventure, Sci-Fi",2021-07-14,7.4,221806,1875.7
+1551,Movie 1551,Family,1985-10-19,8.6,195771,1008.8
+1552,Movie 1552,Comedy,2016-11-16,8.4,1653133,117.0
+1553,Movie 1553,"Adventure, Romance, Family",1990-08-12,8.5,1103761,566.9
+1554,Movie 1554,"Romance, Thriller, Drama",1998-02-01,6.7,2034327,1404.6
+1555,Movie 1555,"Animation, Romance, Adventure",1991-08-17,8.2,1489401,2622.7
+1556,Movie 1556,Romance,2009-12-03,6.0,235570,2062.0
+1557,Movie 1557,"Family, Animation",2004-02-26,7.5,1190641,2655.9
+1558,Movie 1558,"Drama, Action, Romance",2010-12-02,7.0,1770997,2493.5
+1559,Movie 1559,"Action, Thriller, Romance",2012-11-21,7.5,620332,355.7
+1560,Movie 1560,"Drama, Comedy",2003-07-22,7.2,1119503,2396.9
+1561,Movie 1561,Sci-Fi,1986-06-21,8.4,2022006,2702.6
+1562,Movie 1562,"Romance, Sci-Fi",2001-05-23,7.6,1989014,2113.7
+1563,Movie 1563,"Sci-Fi, Action, Adventure",1988-03-17,7.0,1027031,2646.5
+1564,Movie 1564,"Thriller, Sci-Fi, Comedy",1990-10-21,7.1,1944916,2036.2
+1565,Movie 1565,Comedy,1989-10-10,9.0,1179218,1928.4
+1566,Movie 1566,Romance,2017-05-05,8.0,1188091,1124.3
+1567,Movie 1567,"Family, Adventure, Romance",2019-03-12,8.3,2201745,977.2
+1568,Movie 1568,"Adventure, Animation",2021-03-28,7.8,835627,1477.8
+1569,Movie 1569,"Action, Drama",2001-04-10,6.7,729516,871.0
+1570,Movie 1570,"Drama, Romance, Comedy",2011-08-19,9.2,151173,2527.9
+1571,Movie 1571,"Romance, Family, Comedy",2022-01-13,8.2,1482086,1546.9
+1572,Movie 1572,"Family, Drama",1983-08-19,7.8,1126313,805.4
+1573,Movie 1573,"Comedy, Romance, Drama",2009-03-02,9.4,1214692,1678.3
+1574,Movie 1574,Romance,1984-03-17,7.1,971291,721.4
+1575,Movie 1575,"Animation, Family, Action",2014-01-11,8.8,406412,629.5
+1576,Movie 1576,Animation,1985-08-07,6.3,1001749,1815.0
+1577,Movie 1577,"Action, Adventure",1987-12-15,8.7,917045,1787.4
+1578,Movie 1578,"Animation, Action, Comedy",2006-10-09,7.7,840428,1019.5
+1579,Movie 1579,"Family, Sci-Fi",2021-05-09,9.0,1144473,1056.4
+1580,Movie 1580,"Family, Sci-Fi, Thriller",2008-02-25,9.3,2145060,69.2
+1581,Movie 1581,"Animation, Family, Drama",1991-02-25,7.5,1377756,329.0
+1582,Movie 1582,"Thriller, Comedy",1992-02-25,6.8,1388491,1530.3
+1583,Movie 1583,"Family, Animation",1986-11-10,9.2,982028,1734.5
+1584,Movie 1584,Thriller,1990-04-25,7.4,820486,2564.5
+1585,Movie 1585,"Comedy, Thriller, Sci-Fi",2010-11-20,8.8,1229874,724.7
+1586,Movie 1586,"Animation, Sci-Fi",2003-03-10,7.2,1584504,2496.2
+1587,Movie 1587,"Animation, Sci-Fi",2007-10-13,8.7,123792,2298.6
+1588,Movie 1588,"Action, Adventure",2002-11-26,6.5,2016334,2312.8
+1589,Movie 1589,Romance,1993-11-23,6.9,1666468,119.9
+1590,Movie 1590,"Adventure, Thriller",2015-09-24,6.7,1001690,1871.8
+1591,Movie 1591,"Sci-Fi, Drama",1984-04-06,7.1,2111935,2827.4
+1592,Movie 1592,"Animation, Action, Adventure",2022-07-23,9.4,2142799,787.0
+1593,Movie 1593,"Adventure, Action, Animation",1983-11-11,7.0,1649580,1342.5
+1594,Movie 1594,"Drama, Animation",1988-12-03,7.1,1835508,2481.7
+1595,Movie 1595,Sci-Fi,2016-04-18,6.3,1128555,1017.1
+1596,Movie 1596,"Sci-Fi, Family, Thriller",1981-03-25,8.7,1416848,2873.7
+1597,Movie 1597,"Animation, Romance",1991-06-15,6.8,1619192,1032.4
+1598,Movie 1598,"Sci-Fi, Family, Animation",1981-03-04,8.2,1892355,1219.1
+1599,Movie 1599,"Action, Family",2012-06-01,8.0,234570,2881.4
+1600,Movie 1600,"Family, Animation",1998-10-11,8.2,416890,1717.7
+1601,Movie 1601,"Drama, Comedy, Adventure",2012-02-19,9.2,900640,2268.1
+1602,Movie 1602,"Adventure, Sci-Fi, Romance",2008-12-05,8.3,406292,585.9
+1603,Movie 1603,"Thriller, Animation, Sci-Fi",2007-01-13,8.0,126650,1889.9
+1604,Movie 1604,"Action, Family",1994-06-14,6.5,1034868,1773.9
+1605,Movie 1605,"Family, Animation",2021-11-07,8.7,1587490,2685.1
+1606,Movie 1606,"Comedy, Romance, Adventure",1989-04-10,6.6,209993,1623.6
+1607,Movie 1607,Comedy,2014-06-03,7.1,1422616,2789.0
+1608,Movie 1608,"Romance, Family, Comedy",1990-07-09,6.8,1011153,2328.4
+1609,Movie 1609,Comedy,2008-02-27,9.3,206635,1359.7
+1610,Movie 1610,"Romance, Adventure, Action",2008-08-13,6.7,1695953,1791.1
+1611,Movie 1611,Drama,1991-09-19,8.5,610462,530.5
+1612,Movie 1612,Drama,2011-12-20,7.3,1429089,1274.6
+1613,Movie 1613,Drama,2012-06-16,6.9,569729,2837.4
+1614,Movie 1614,Action,2004-07-13,9.4,519707,1096.3
+1615,Movie 1615,"Drama, Adventure",2021-05-08,9.5,454215,1968.8
+1616,Movie 1616,"Animation, Action",1997-12-21,9.1,290293,465.2
+1617,Movie 1617,Comedy,2016-01-05,7.8,688126,2100.5
+1618,Movie 1618,Action,2018-04-28,8.6,1329285,1146.5
+1619,Movie 1619,"Comedy, Adventure",1991-03-17,9.4,861747,1127.0
+1620,Movie 1620,Comedy,1981-08-07,7.1,1665247,2731.5
+1621,Movie 1621,"Thriller, Action",1981-06-01,9.1,243540,2218.1
+1622,Movie 1622,Adventure,1982-09-13,8.7,2302867,550.7
+1623,Movie 1623,Action,2002-04-03,7.5,378190,381.6
+1624,Movie 1624,"Animation, Adventure",2014-08-05,9.0,103026,968.7
+1625,Movie 1625,"Sci-Fi, Comedy",2000-11-18,7.3,504323,1459.5
+1626,Movie 1626,"Romance, Comedy, Drama",2012-03-26,9.3,1046032,1994.7
+1627,Movie 1627,"Drama, Adventure, Comedy",2019-02-08,6.8,874380,2203.6
+1628,Movie 1628,"Thriller, Animation",2022-10-17,7.8,1218729,2291.7
+1629,Movie 1629,Thriller,2007-06-22,6.5,243551,2256.4
+1630,Movie 1630,"Action, Romance",1991-01-05,8.2,1097528,527.6
+1631,Movie 1631,"Action, Animation",2010-06-07,8.2,1801448,1383.7
+1632,Movie 1632,Animation,2019-05-18,7.5,1271490,1983.6
+1633,Movie 1633,"Thriller, Family, Drama",1996-06-26,9.1,2402256,1396.1
+1634,Movie 1634,Thriller,2013-05-03,8.7,1888931,1944.8
+1635,Movie 1635,"Comedy, Drama, Animation",2009-02-04,7.9,1340312,422.6
+1636,Movie 1636,"Sci-Fi, Animation",2007-09-03,9.4,2216964,588.7
+1637,Movie 1637,"Romance, Comedy, Adventure",2023-04-25,6.1,1584517,1600.4
+1638,Movie 1638,Family,2013-01-26,7.9,2362647,729.7
+1639,Movie 1639,"Comedy, Thriller, Drama",1986-11-06,8.2,1048992,2537.6
+1640,Movie 1640,"Comedy, Adventure, Animation",1992-05-02,9.4,1781382,924.7
+1641,Movie 1641,"Adventure, Animation, Romance",2000-03-24,9.3,101483,270.9
+1642,Movie 1642,"Family, Sci-Fi, Drama",2019-10-03,6.2,1821239,463.9
+1643,Movie 1643,"Comedy, Romance",2005-03-21,7.5,911058,783.3
+1644,Movie 1644,"Drama, Romance",1997-03-13,6.4,736889,657.2
+1645,Movie 1645,Sci-Fi,2000-01-21,6.4,1405102,1596.5
+1646,Movie 1646,"Animation, Romance, Thriller",2008-05-27,6.4,2005755,503.3
+1647,Movie 1647,"Thriller, Sci-Fi, Action",2004-05-04,8.2,1886398,1775.7
+1648,Movie 1648,"Animation, Sci-Fi, Drama",2013-02-03,9.5,1620642,761.8
+1649,Movie 1649,"Animation, Adventure, Romance",1983-11-04,9.0,1275258,2534.9
+1650,Movie 1650,"Sci-Fi, Family, Thriller",2012-06-14,8.3,1153814,2950.1
+1651,Movie 1651,Action,1986-12-26,7.7,2176080,703.1
+1652,Movie 1652,"Sci-Fi, Drama",2011-09-20,8.9,1676313,1839.6
+1653,Movie 1653,"Adventure, Action, Sci-Fi",1986-10-27,8.8,513460,1748.1
+1654,Movie 1654,Romance,2003-10-22,8.5,1869280,2455.1
+1655,Movie 1655,"Action, Thriller, Animation",2008-08-19,9.0,256347,2823.6
+1656,Movie 1656,"Adventure, Action, Drama",2016-03-01,8.2,1479767,341.5
+1657,Movie 1657,"Action, Animation",1996-06-27,8.4,1577982,2922.1
+1658,Movie 1658,Sci-Fi,2008-01-11,7.6,1203830,2317.4
+1659,Movie 1659,Romance,2015-09-21,7.1,1783261,2272.3
+1660,Movie 1660,Animation,1985-06-12,8.2,1054501,983.8
+1661,Movie 1661,"Drama, Family",2020-07-11,8.2,880946,2281.9
+1662,Movie 1662,Sci-Fi,2011-06-11,8.8,1616086,2276.6
+1663,Movie 1663,Thriller,1981-02-07,8.0,2222818,2115.7
+1664,Movie 1664,"Sci-Fi, Comedy, Romance",2019-12-03,6.7,479761,2149.4
+1665,Movie 1665,"Adventure, Sci-Fi, Drama",2001-09-12,7.4,1715814,355.7
+1666,Movie 1666,"Sci-Fi, Drama, Comedy",1994-08-27,6.1,2398424,507.3
+1667,Movie 1667,"Action, Animation",1994-12-08,6.9,1047210,1349.0
+1668,Movie 1668,Comedy,1980-05-08,9.4,2126995,2521.9
+1669,Movie 1669,"Family, Romance",2006-03-28,7.8,1776114,1900.4
+1670,Movie 1670,"Sci-Fi, Thriller",1996-07-12,7.3,1084427,994.5
+1671,Movie 1671,"Drama, Comedy",2000-12-08,8.8,640078,335.0
+1672,Movie 1672,"Animation, Thriller, Action",2018-04-24,7.2,2423949,2472.2
+1673,Movie 1673,Animation,1997-10-27,6.2,1936563,1516.5
+1674,Movie 1674,"Drama, Comedy",1981-09-15,8.0,341364,2692.7
+1675,Movie 1675,"Comedy, Drama",2023-06-03,9.3,1258006,1730.8
+1676,Movie 1676,"Action, Animation, Romance",1988-07-07,8.3,1399501,1638.3
+1677,Movie 1677,"Sci-Fi, Thriller, Drama",2016-09-14,6.5,2363299,2941.5
+1678,Movie 1678,"Thriller, Action, Sci-Fi",1983-12-25,7.3,601988,2335.1
+1679,Movie 1679,Drama,2013-07-24,6.6,916291,784.0
+1680,Movie 1680,"Comedy, Family, Action",2021-08-24,6.4,473736,327.8
+1681,Movie 1681,"Adventure, Family",2004-12-16,6.5,1539885,589.8
+1682,Movie 1682,"Thriller, Comedy",2007-05-16,6.3,1192639,1234.2
+1683,Movie 1683,Thriller,2021-11-03,7.2,494381,1595.4
+1684,Movie 1684,Action,2015-01-22,7.3,806795,55.1
+1685,Movie 1685,"Action, Family, Comedy",2004-05-01,8.8,2482694,1711.9
+1686,Movie 1686,Comedy,1992-11-20,7.7,2344850,694.2
+1687,Movie 1687,"Drama, Comedy",2018-06-19,6.6,1948419,2133.8
+1688,Movie 1688,Family,1989-08-01,8.2,2354815,2670.3
+1689,Movie 1689,Sci-Fi,1998-02-12,8.4,2274699,543.8
+1690,Movie 1690,Animation,1992-10-05,9.5,1515144,2816.6
+1691,Movie 1691,"Family, Adventure, Animation",2008-02-22,7.9,1519117,776.4
+1692,Movie 1692,Romance,2011-04-26,7.4,1602908,222.9
+1693,Movie 1693,"Drama, Family",2022-11-11,9.2,2461379,1746.5
+1694,Movie 1694,"Family, Adventure, Animation",2014-11-07,7.0,668226,1371.3
+1695,Movie 1695,Sci-Fi,2020-07-13,7.5,445564,1496.9
+1696,Movie 1696,"Drama, Thriller",2015-08-20,7.4,2187146,2977.2
+1697,Movie 1697,"Action, Family",1992-02-10,9.1,2496100,1651.2
+1698,Movie 1698,"Thriller, Action, Sci-Fi",1981-01-10,7.3,1575411,2894.4
+1699,Movie 1699,Adventure,2012-09-28,6.6,1655348,2059.3
+1700,Movie 1700,Romance,1986-08-06,9.1,1443479,265.2
+1701,Movie 1701,Animation,1993-10-21,8.1,289724,2770.2
+1702,Movie 1702,Drama,1998-01-08,8.3,1487268,2954.0
+1703,Movie 1703,"Romance, Thriller",2005-01-05,6.5,1132525,1884.2
+1704,Movie 1704,"Adventure, Sci-Fi",1993-11-24,9.2,1816323,2086.3
+1705,Movie 1705,"Adventure, Family",1997-04-27,8.7,1162943,1820.4
+1706,Movie 1706,"Adventure, Action, Thriller",2008-03-22,8.4,395800,1930.9
+1707,Movie 1707,Comedy,2011-02-06,7.9,801986,2833.3
+1708,Movie 1708,"Adventure, Sci-Fi",2014-05-10,9.0,1196807,370.1
+1709,Movie 1709,Adventure,1992-02-18,9.0,942166,425.0
+1710,Movie 1710,Animation,2010-02-04,6.8,1727657,594.2
+1711,Movie 1711,"Drama, Romance, Animation",2019-06-15,8.6,1953982,1811.2
+1712,Movie 1712,Family,1992-04-24,7.1,2485725,91.9
+1713,Movie 1713,Thriller,1996-03-12,7.6,336676,1204.4
+1714,Movie 1714,Sci-Fi,2012-02-08,6.6,915117,1040.9
+1715,Movie 1715,"Animation, Action, Adventure",2008-02-27,6.9,2316927,899.0
+1716,Movie 1716,Comedy,2015-06-02,6.4,373180,1259.3
+1717,Movie 1717,"Action, Comedy, Thriller",2000-06-02,6.5,535337,2068.7
+1718,Movie 1718,Adventure,1980-10-02,8.8,2477980,402.9
+1719,Movie 1719,Action,2016-09-03,6.1,2098284,2814.8
+1720,Movie 1720,"Adventure, Sci-Fi, Thriller",2019-07-15,9.2,1096856,2064.5
+1721,Movie 1721,"Sci-Fi, Thriller, Animation",2009-08-05,7.6,1610516,710.3
+1722,Movie 1722,"Comedy, Adventure",1996-03-12,8.6,1910834,2426.1
+1723,Movie 1723,Action,2009-07-23,9.1,1052046,2963.1
+1724,Movie 1724,Thriller,1993-07-14,9.1,2031818,2213.7
+1725,Movie 1725,"Adventure, Animation",2003-06-11,8.3,658323,2183.8
+1726,Movie 1726,Romance,1993-12-07,8.0,1624272,2706.0
+1727,Movie 1727,"Adventure, Thriller, Animation",1999-04-13,6.5,555711,1651.3
+1728,Movie 1728,"Sci-Fi, Adventure",1983-04-07,7.2,757328,1996.0
+1729,Movie 1729,"Adventure, Comedy, Romance",1981-12-07,7.4,822849,856.3
+1730,Movie 1730,"Comedy, Adventure, Sci-Fi",1992-03-14,7.1,1130534,2610.7
+1731,Movie 1731,Animation,2000-10-25,8.1,248065,2044.8
+1732,Movie 1732,Drama,1981-01-28,9.0,1490447,2565.2
+1733,Movie 1733,"Thriller, Romance",1989-04-10,8.9,1622280,1888.5
+1734,Movie 1734,"Animation, Family",2001-12-06,7.0,525719,2416.9
+1735,Movie 1735,Comedy,1990-07-04,7.9,1818322,516.9
+1736,Movie 1736,"Animation, Sci-Fi, Thriller",1995-02-22,9.3,1966062,336.4
+1737,Movie 1737,Comedy,2004-08-13,7.7,183693,1779.2
+1738,Movie 1738,"Animation, Comedy",2008-01-16,9.3,2477260,1064.3
+1739,Movie 1739,"Drama, Thriller",1984-03-05,8.2,1750944,2754.5
+1740,Movie 1740,Romance,2020-06-10,8.5,448432,1096.4
+1741,Movie 1741,"Action, Adventure",1990-06-28,6.9,2253451,876.7
+1742,Movie 1742,"Action, Animation, Comedy",1990-01-21,6.8,1386125,826.2
+1743,Movie 1743,"Thriller, Action",1997-12-25,8.3,436568,1032.1
+1744,Movie 1744,Comedy,2019-01-24,8.0,1369659,1173.0
+1745,Movie 1745,"Adventure, Family",1982-12-22,6.9,1673459,1040.1
+1746,Movie 1746,"Adventure, Family, Thriller",2001-03-12,8.5,2416860,619.1
+1747,Movie 1747,"Sci-Fi, Drama",2008-11-03,8.8,1436363,2591.4
+1748,Movie 1748,Action,1988-02-08,6.3,1666104,241.6
+1749,Movie 1749,"Romance, Drama, Adventure",1984-01-24,6.0,1530823,2617.0
+1750,Movie 1750,"Drama, Comedy, Sci-Fi",2020-08-21,9.1,543894,1857.1
+1751,Movie 1751,Comedy,1992-12-03,6.6,484139,61.3
+1752,Movie 1752,"Romance, Family, Action",1985-07-11,8.2,907984,1454.3
+1753,Movie 1753,Animation,2018-12-06,7.6,356969,1355.4
+1754,Movie 1754,"Action, Drama, Animation",1992-05-05,9.1,894172,2114.9
+1755,Movie 1755,"Drama, Romance, Family",2000-04-06,7.4,1344531,1824.6
+1756,Movie 1756,"Sci-Fi, Romance, Animation",1996-06-24,6.8,129289,1981.8
+1757,Movie 1757,"Sci-Fi, Family, Adventure",1990-02-02,6.2,1543776,2712.9
+1758,Movie 1758,Adventure,1985-11-25,9.1,1970374,85.4
+1759,Movie 1759,"Drama, Thriller, Sci-Fi",2003-12-22,8.1,376315,1729.1
+1760,Movie 1760,"Thriller, Animation, Comedy",2010-06-16,7.1,2151381,974.8
+1761,Movie 1761,"Romance, Family, Sci-Fi",1990-01-23,7.2,2050119,2645.9
+1762,Movie 1762,"Adventure, Animation",2009-08-05,6.5,1717173,1287.8
+1763,Movie 1763,Comedy,2000-07-28,8.2,1775281,1128.8
+1764,Movie 1764,"Comedy, Family",2017-03-07,6.3,1741196,1443.3
+1765,Movie 1765,"Thriller, Romance",1981-08-13,6.6,2404051,869.1
+1766,Movie 1766,Animation,2018-12-16,7.5,770336,1487.7
+1767,Movie 1767,"Action, Thriller, Family",1984-06-23,7.7,1313503,467.4
+1768,Movie 1768,"Animation, Romance, Family",2011-01-10,8.2,1520109,1909.9
+1769,Movie 1769,"Adventure, Drama, Sci-Fi",1988-09-10,7.2,1665963,2431.0
+1770,Movie 1770,Thriller,2016-08-03,6.1,1651928,1280.2
+1771,Movie 1771,Thriller,1994-06-21,9.2,2097275,2371.1
+1772,Movie 1772,"Thriller, Family, Animation",1992-03-11,8.7,1060188,2138.9
+1773,Movie 1773,"Romance, Family, Animation",2016-08-01,7.1,500902,1183.2
+1774,Movie 1774,Thriller,1985-09-16,7.6,1215715,247.4
+1775,Movie 1775,"Romance, Sci-Fi",1989-06-28,8.7,2087038,777.4
+1776,Movie 1776,"Action, Thriller, Comedy",2019-08-18,6.5,1244028,2872.2
+1777,Movie 1777,"Thriller, Romance",2021-04-20,8.1,1339918,2213.6
+1778,Movie 1778,"Romance, Sci-Fi, Drama",2004-07-23,8.9,145776,929.6
+1779,Movie 1779,Comedy,1998-01-01,8.3,1867577,282.2
+1780,Movie 1780,"Comedy, Animation",2020-07-18,6.5,1962855,2287.5
+1781,Movie 1781,Sci-Fi,2009-05-07,8.5,2001418,890.1
+1782,Movie 1782,"Comedy, Thriller, Action",1987-01-28,7.1,2101108,1138.0
+1783,Movie 1783,"Adventure, Action",2020-07-21,7.1,846579,1013.5
+1784,Movie 1784,Sci-Fi,2000-10-25,8.0,2246260,214.8
+1785,Movie 1785,"Comedy, Animation, Action",1984-03-05,6.4,785272,2823.4
+1786,Movie 1786,Drama,2003-06-11,6.3,1541050,2265.0
+1787,Movie 1787,"Adventure, Action",2013-07-21,8.8,750050,1666.9
+1788,Movie 1788,Romance,2008-03-04,8.7,1193684,720.8
+1789,Movie 1789,Family,1981-01-21,9.0,1045898,1462.1
+1790,Movie 1790,Romance,1994-03-28,6.5,1439908,1002.7
+1791,Movie 1791,"Adventure, Action, Sci-Fi",1998-08-01,8.3,1840379,1672.6
+1792,Movie 1792,Romance,2017-01-07,6.8,2161353,71.1
+1793,Movie 1793,"Drama, Thriller, Sci-Fi",1990-07-07,6.5,130827,2749.8
+1794,Movie 1794,"Sci-Fi, Family, Animation",2003-09-13,6.6,945512,2274.8
+1795,Movie 1795,"Thriller, Romance",2000-05-13,6.4,1296977,1382.4
+1796,Movie 1796,"Family, Adventure",1993-03-04,6.1,547656,2241.3
+1797,Movie 1797,Romance,2016-12-24,7.0,999017,2665.6
+1798,Movie 1798,"Thriller, Animation",1983-11-21,6.8,1158359,689.6
+1799,Movie 1799,Sci-Fi,1980-04-27,6.6,1500612,658.7
+1800,Movie 1800,"Adventure, Thriller, Romance",2005-10-25,6.6,2162264,1466.5
+1801,Movie 1801,"Sci-Fi, Romance, Action",2019-02-01,9.0,309832,2578.6
+1802,Movie 1802,"Action, Sci-Fi",2008-07-24,8.0,768937,336.8
+1803,Movie 1803,"Romance, Family",2007-12-12,6.3,1851067,1978.2
+1804,Movie 1804,"Action, Drama",1999-03-09,7.6,958431,405.0
+1805,Movie 1805,"Action, Animation, Drama",1980-02-03,8.5,2009434,2615.9
+1806,Movie 1806,"Family, Sci-Fi, Comedy",1981-12-19,7.7,742965,685.7
+1807,Movie 1807,"Adventure, Action",1982-08-14,8.9,1829832,566.3
+1808,Movie 1808,Action,2022-02-25,9.1,1280984,2170.7
+1809,Movie 1809,Sci-Fi,1981-11-09,9.4,888821,742.7
+1810,Movie 1810,"Action, Family",2016-07-18,9.3,2149033,2386.3
+1811,Movie 1811,"Action, Sci-Fi, Comedy",1985-10-12,7.6,2081704,1656.5
+1812,Movie 1812,"Thriller, Comedy",2000-12-21,7.2,829652,1761.6
+1813,Movie 1813,"Animation, Thriller",1998-03-27,8.4,2174128,2043.3
+1814,Movie 1814,"Thriller, Adventure",1985-10-09,9.1,1495881,2777.9
+1815,Movie 1815,"Animation, Family, Adventure",2014-11-06,9.1,1540549,1543.7
+1816,Movie 1816,"Comedy, Thriller, Sci-Fi",2020-12-06,9.0,685194,2932.8
+1817,Movie 1817,Adventure,1985-07-04,9.5,2381687,173.8
+1818,Movie 1818,Action,1996-09-22,9.3,1051194,2067.8
+1819,Movie 1819,"Animation, Drama",2000-12-27,8.8,2400368,2813.9
+1820,Movie 1820,"Adventure, Romance, Sci-Fi",2002-12-14,8.4,546385,716.2
+1821,Movie 1821,"Animation, Comedy, Adventure",1992-12-01,9.1,2216072,2409.8
+1822,Movie 1822,"Comedy, Drama",1999-04-25,7.4,977633,1648.8
+1823,Movie 1823,Romance,1981-01-01,7.0,968587,597.9
+1824,Movie 1824,"Drama, Family, Comedy",2008-02-14,9.3,1790307,81.2
+1825,Movie 1825,"Sci-Fi, Thriller, Romance",2003-04-10,7.5,2106720,1923.9
+1826,Movie 1826,"Action, Animation, Family",2011-06-12,6.1,2086411,2590.5
+1827,Movie 1827,"Family, Drama",2007-12-19,8.2,1572431,2849.9
+1828,Movie 1828,"Animation, Action, Romance",1982-08-25,9.2,2091756,793.9
+1829,Movie 1829,Drama,1995-12-27,8.5,494288,1391.3
+1830,Movie 1830,"Thriller, Romance, Sci-Fi",2010-01-11,7.1,1992465,688.8
+1831,Movie 1831,"Drama, Action",2023-03-19,9.0,218429,2809.8
+1832,Movie 1832,"Drama, Comedy",2009-05-23,8.0,2346733,1978.4
+1833,Movie 1833,Sci-Fi,2017-02-23,7.8,829467,2711.7
+1834,Movie 1834,"Comedy, Action",1998-10-11,7.5,749262,2907.3
+1835,Movie 1835,Romance,2010-08-08,6.0,840846,2328.8
+1836,Movie 1836,Sci-Fi,1991-04-11,9.0,2169264,724.8
+1837,Movie 1837,"Drama, Family",1990-03-05,8.6,2460431,119.9
+1838,Movie 1838,"Thriller, Adventure",1981-12-17,9.1,1644713,1922.8
+1839,Movie 1839,Adventure,2010-01-09,7.5,1871066,247.5
+1840,Movie 1840,Sci-Fi,2022-06-16,7.4,1120188,2724.5
+1841,Movie 1841,Drama,1981-03-03,8.0,924252,1366.0
+1842,Movie 1842,"Thriller, Sci-Fi, Romance",1984-11-06,8.0,585909,1701.0
+1843,Movie 1843,Romance,1989-05-05,8.6,1738755,83.0
+1844,Movie 1844,Family,1980-02-17,8.3,2325159,76.1
+1845,Movie 1845,Thriller,1995-08-26,6.7,2091285,1460.9
+1846,Movie 1846,Drama,1991-07-18,8.2,2370808,2583.1
+1847,Movie 1847,Comedy,2022-03-28,7.8,385187,1459.2
+1848,Movie 1848,Comedy,1995-11-25,7.4,1617174,2815.9
+1849,Movie 1849,"Adventure, Action",2007-01-28,7.1,1755193,131.6
+1850,Movie 1850,"Thriller, Adventure, Romance",2018-04-24,9.2,2110605,1863.9
+1851,Movie 1851,"Adventure, Comedy, Drama",2018-09-10,7.7,414805,1326.6
+1852,Movie 1852,Adventure,1984-09-03,8.5,710538,2330.1
+1853,Movie 1853,Thriller,1997-07-09,7.6,1532281,945.3
+1854,Movie 1854,"Thriller, Sci-Fi, Adventure",2010-09-16,7.4,2449597,2774.2
+1855,Movie 1855,"Comedy, Animation, Family",1985-12-16,9.4,2334469,1575.1
+1856,Movie 1856,"Drama, Sci-Fi, Thriller",1997-05-28,7.0,2253850,722.1
+1857,Movie 1857,"Romance, Family",2002-05-07,8.9,2271272,2044.5
+1858,Movie 1858,"Sci-Fi, Adventure",2022-11-07,8.7,684172,2416.6
+1859,Movie 1859,"Sci-Fi, Romance, Thriller",2023-06-23,7.9,1446969,653.2
+1860,Movie 1860,"Family, Comedy",1987-12-24,9.1,1136106,656.9
+1861,Movie 1861,"Thriller, Comedy, Family",2011-06-08,7.4,1235567,2800.8
+1862,Movie 1862,"Family, Thriller",1989-05-20,6.3,621894,2901.2
+1863,Movie 1863,"Adventure, Action, Animation",1992-05-16,7.6,2409569,1771.6
+1864,Movie 1864,"Family, Adventure",1992-05-02,9.4,2153361,1806.1
+1865,Movie 1865,"Adventure, Family",2000-02-05,6.6,1615548,2292.4
+1866,Movie 1866,Action,1984-05-04,7.9,1225811,425.9
+1867,Movie 1867,Adventure,1993-01-22,8.0,141339,378.7
+1868,Movie 1868,"Sci-Fi, Family, Romance",1995-04-08,8.2,2493341,2267.6
+1869,Movie 1869,"Thriller, Romance, Drama",1981-09-19,7.1,1022211,556.9
+1870,Movie 1870,"Romance, Action",1990-02-19,8.6,1231326,2438.2
+1871,Movie 1871,Drama,1995-07-08,6.8,794755,2681.1
+1872,Movie 1872,Sci-Fi,1986-01-08,8.3,1925332,1759.9
+1873,Movie 1873,"Adventure, Animation, Drama",1994-02-28,6.3,1962829,1355.5
+1874,Movie 1874,"Adventure, Family, Action",2014-05-07,9.1,2161583,1338.1
+1875,Movie 1875,"Thriller, Family, Action",2011-09-20,7.4,1954677,1839.3
+1876,Movie 1876,"Comedy, Drama",2018-12-22,7.3,1794525,661.0
+1877,Movie 1877,"Thriller, Adventure",1997-04-23,7.0,1068445,1169.4
+1878,Movie 1878,"Action, Romance",2021-12-03,7.6,191768,1197.2
+1879,Movie 1879,"Thriller, Adventure",1981-08-14,8.5,1878962,313.9
+1880,Movie 1880,"Thriller, Romance",1997-06-09,7.7,806914,696.5
+1881,Movie 1881,"Family, Romance, Adventure",1982-07-12,6.2,1058734,315.4
+1882,Movie 1882,Drama,2019-12-18,6.2,432421,1599.5
+1883,Movie 1883,"Animation, Comedy",1998-03-28,7.5,880224,725.8
+1884,Movie 1884,"Comedy, Drama",1994-02-20,6.2,837962,900.3
+1885,Movie 1885,"Adventure, Comedy",1995-01-26,9.4,423160,248.8
+1886,Movie 1886,Sci-Fi,1991-09-04,8.7,2421289,2294.5
+1887,Movie 1887,"Comedy, Family, Sci-Fi",1991-04-26,6.0,820558,2310.7
+1888,Movie 1888,"Action, Family, Romance",1988-03-02,7.6,654868,763.7
+1889,Movie 1889,"Thriller, Sci-Fi, Romance",1995-08-06,8.5,1141088,528.2
+1890,Movie 1890,"Action, Drama, Romance",1988-01-10,7.6,2155026,2048.7
+1891,Movie 1891,"Family, Adventure",2013-08-21,9.3,1584513,2369.8
+1892,Movie 1892,"Adventure, Sci-Fi, Animation",2006-03-17,9.0,629488,2424.3
+1893,Movie 1893,Drama,2018-06-27,7.0,1829785,1178.6
+1894,Movie 1894,"Thriller, Action",2000-08-07,8.6,1004167,1334.8
+1895,Movie 1895,"Comedy, Animation, Adventure",2017-12-05,8.3,1366562,1219.3
+1896,Movie 1896,Action,1994-08-09,7.7,2056009,2153.0
+1897,Movie 1897,"Romance, Animation",1988-07-02,6.9,710428,2696.3
+1898,Movie 1898,Sci-Fi,2003-01-12,7.6,1721336,2666.8
+1899,Movie 1899,"Drama, Sci-Fi",2002-09-18,7.7,2110994,249.9
+1900,Movie 1900,"Romance, Sci-Fi",2012-03-01,9.5,712112,2245.8
+1901,Movie 1901,"Sci-Fi, Action, Animation",2012-04-21,7.8,201249,1372.7
+1902,Movie 1902,"Animation, Thriller",2019-06-10,7.3,2268444,1777.6
+1903,Movie 1903,"Animation, Adventure",2012-01-22,8.7,2475446,1542.5
+1904,Movie 1904,Adventure,2001-11-23,7.5,1220323,474.7
+1905,Movie 1905,Drama,2019-07-09,7.4,275706,179.8
+1906,Movie 1906,Comedy,1992-07-19,6.7,736051,1309.4
+1907,Movie 1907,"Sci-Fi, Romance, Action",1984-03-28,6.1,2124441,2371.7
+1908,Movie 1908,Animation,1990-11-16,6.4,2027728,2444.5
+1909,Movie 1909,"Thriller, Animation",1996-10-18,7.9,1486636,1913.0
+1910,Movie 1910,"Family, Comedy",2022-11-27,8.5,2281240,2063.7
+1911,Movie 1911,"Romance, Family, Adventure",1981-07-16,7.0,2234208,936.7
+1912,Movie 1912,"Adventure, Action, Sci-Fi",1999-05-04,8.9,2427897,709.7
+1913,Movie 1913,Romance,2009-03-04,8.4,2221662,1120.8
+1914,Movie 1914,"Adventure, Family, Sci-Fi",2001-05-03,6.8,2118188,2848.1
+1915,Movie 1915,"Drama, Thriller, Action",2007-07-27,7.5,1837376,1445.9
+1916,Movie 1916,Thriller,2003-02-10,6.8,2163013,2787.1
+1917,Movie 1917,"Romance, Adventure",2007-04-10,6.9,791617,1041.5
+1918,Movie 1918,"Thriller, Adventure, Animation",1985-02-03,6.3,135609,492.6
+1919,Movie 1919,"Animation, Drama",2021-03-02,6.0,844795,146.4
+1920,Movie 1920,"Thriller, Family",2022-10-03,6.1,1399258,1023.9
+1921,Movie 1921,Drama,1982-10-01,8.9,906347,2379.2
+1922,Movie 1922,"Animation, Drama",1997-10-10,8.2,2306570,261.5
+1923,Movie 1923,"Sci-Fi, Comedy, Action",2009-10-28,6.9,2259611,333.6
+1924,Movie 1924,"Romance, Sci-Fi, Action",2005-06-22,6.6,2082481,2440.3
+1925,Movie 1925,"Family, Sci-Fi",1998-11-23,8.9,1853091,2430.5
+1926,Movie 1926,Sci-Fi,2022-06-07,6.8,723780,2124.5
+1927,Movie 1927,Drama,1983-10-04,6.5,1982907,422.0
+1928,Movie 1928,"Drama, Sci-Fi, Adventure",2001-12-11,8.0,2119963,1334.2
+1929,Movie 1929,Family,2017-05-23,6.7,2084863,1985.7
+1930,Movie 1930,"Comedy, Adventure",1992-06-03,6.2,1157727,1199.2
+1931,Movie 1931,"Animation, Adventure",2000-08-05,8.9,1871457,1992.3
+1932,Movie 1932,"Comedy, Action, Adventure",1990-05-14,6.3,1503230,487.1
+1933,Movie 1933,Romance,2012-10-16,9.3,948320,2176.3
+1934,Movie 1934,"Action, Family",2020-06-23,7.2,1664575,1044.7
+1935,Movie 1935,Animation,2012-04-07,6.5,2218044,856.7
+1936,Movie 1936,"Family, Romance",2007-12-26,6.1,2394800,906.1
+1937,Movie 1937,"Action, Sci-Fi",2001-01-14,8.1,363395,1449.8
+1938,Movie 1938,"Animation, Romance",2000-10-08,7.6,1359476,2680.0
+1939,Movie 1939,Romance,2022-10-09,7.4,117972,1615.7
+1940,Movie 1940,Romance,2008-04-13,6.0,300335,2878.0
+1941,Movie 1941,"Family, Adventure",1981-09-28,9.3,1384313,2318.3
+1942,Movie 1942,"Action, Animation, Sci-Fi",1993-09-22,7.9,586000,2572.9
+1943,Movie 1943,"Family, Thriller",1991-09-21,6.7,1901455,285.0
+1944,Movie 1944,"Romance, Animation, Action",1986-03-24,8.6,808932,1989.5
+1945,Movie 1945,"Sci-Fi, Adventure, Drama",2007-04-24,6.6,509382,2307.0
+1946,Movie 1946,"Sci-Fi, Drama",1984-03-28,6.4,113959,2863.1
+1947,Movie 1947,Sci-Fi,1991-02-25,7.6,609352,1526.4
+1948,Movie 1948,"Animation, Drama, Romance",2022-10-09,8.7,1594258,2377.6
+1949,Movie 1949,"Comedy, Adventure",1992-09-09,8.5,462489,2976.8
+1950,Movie 1950,Comedy,2001-03-17,8.9,2343152,622.8
+1951,Movie 1951,"Thriller, Action, Comedy",2004-07-04,8.8,1788037,676.5
+1952,Movie 1952,Animation,2017-12-23,6.2,1051063,2511.8
+1953,Movie 1953,"Family, Animation",2004-06-21,7.3,276012,157.3
+1954,Movie 1954,Action,2016-06-01,9.5,1662535,1963.7
+1955,Movie 1955,"Action, Thriller",2009-02-05,9.0,2283194,1706.2
+1956,Movie 1956,Comedy,2010-08-18,9.5,1529013,403.3
+1957,Movie 1957,Thriller,1995-05-18,8.9,1330824,164.9
+1958,Movie 1958,Action,1999-11-05,8.4,1692078,2997.9
+1959,Movie 1959,"Thriller, Adventure",1984-09-12,6.3,1393460,2229.0
+1960,Movie 1960,"Action, Family",1998-06-06,8.5,676401,2797.7
+1961,Movie 1961,"Drama, Thriller, Action",1986-05-25,7.2,618948,588.7
+1962,Movie 1962,Drama,1994-01-09,7.1,2407741,2276.8
+1963,Movie 1963,Family,2016-12-18,7.0,2416794,1990.8
+1964,Movie 1964,Adventure,1982-05-14,6.3,1497821,843.7
+1965,Movie 1965,Comedy,1984-02-19,6.0,2100586,175.4
+1966,Movie 1966,"Adventure, Drama",1996-03-19,9.3,1138408,291.9
+1967,Movie 1967,Comedy,2021-10-23,9.0,170655,1437.4
+1968,Movie 1968,"Comedy, Family, Thriller",2023-09-08,9.5,122173,2060.2
+1969,Movie 1969,"Romance, Animation",2015-04-02,7.5,1729240,617.8
+1970,Movie 1970,"Sci-Fi, Thriller, Drama",2005-10-14,9.2,1306545,844.6
+1971,Movie 1971,"Drama, Adventure, Comedy",2021-10-16,6.0,580712,1246.4
+1972,Movie 1972,Sci-Fi,1988-10-06,8.9,603220,2903.2
+1973,Movie 1973,Comedy,1982-04-08,8.6,402825,2068.0
+1974,Movie 1974,Romance,1997-02-19,6.0,981663,2165.8
+1975,Movie 1975,"Action, Adventure, Family",2001-04-15,6.5,616923,2613.0
+1976,Movie 1976,"Adventure, Family",2022-09-22,7.0,945357,2580.4
+1977,Movie 1977,Romance,2004-06-07,9.0,1118244,1495.2
+1978,Movie 1978,"Adventure, Action",1996-01-14,7.6,357549,2355.1
+1979,Movie 1979,Animation,2013-05-07,7.4,1304645,465.1
+1980,Movie 1980,"Comedy, Adventure",1980-08-26,8.7,373867,1780.1
+1981,Movie 1981,"Sci-Fi, Romance",2008-04-23,9.0,2099991,2892.3
+1982,Movie 1982,"Comedy, Animation",1994-08-05,6.1,1083232,1953.4
+1983,Movie 1983,"Romance, Comedy",1987-05-24,7.3,1168755,2085.2
+1984,Movie 1984,"Family, Sci-Fi",2005-01-03,8.0,549290,761.6
+1985,Movie 1985,"Sci-Fi, Romance",2022-09-28,8.1,2322642,2769.4
+1986,Movie 1986,"Animation, Action, Drama",1981-06-25,8.4,2423109,1288.2
+1987,Movie 1987,"Action, Animation",1992-03-04,8.6,1881944,790.9
+1988,Movie 1988,"Romance, Adventure",2022-10-19,8.0,503030,1170.8
+1989,Movie 1989,"Romance, Family, Comedy",1982-06-12,7.6,1111528,1620.8
+1990,Movie 1990,"Romance, Adventure",2015-01-23,6.3,2470448,2693.0
+1991,Movie 1991,Adventure,1982-04-15,7.4,404523,352.7
+1992,Movie 1992,"Animation, Comedy, Drama",1993-04-12,6.3,1175656,84.5
+1993,Movie 1993,"Adventure, Drama, Comedy",2021-10-15,9.1,492095,1055.4
+1994,Movie 1994,Drama,1985-05-26,8.1,1111708,180.3
+1995,Movie 1995,"Sci-Fi, Comedy, Thriller",1980-08-27,9.5,1827252,2668.0
+1996,Movie 1996,Drama,2012-10-08,9.2,1264632,50.3
+1997,Movie 1997,"Thriller, Family, Adventure",2008-09-23,6.6,508991,2943.1
+1998,Movie 1998,"Action, Sci-Fi, Drama",1991-03-08,8.6,852422,627.8
+1999,Movie 1999,Romance,1988-05-15,6.2,1985201,715.6
+2000,Movie 2000,Action,1987-12-24,6.7,1356586,2512.5
